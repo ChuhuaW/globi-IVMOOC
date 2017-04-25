@@ -1,0 +1,1091 @@
+source_taxon_name,interaction_type,target_taxon_name,latitude,longitude
+Papilio demodocus,visitsFlowersOf,Marantaceae,2.210947,16.193072
+Chalcomitra rubescens,visitsFlowersOf,Musa velutina,3.800889,11.555144
+Chlidonias niger,eats,Sardina pilchardus,7.96276599393,-1.20776794429
+Chlidonias niger,eats,Clupea pallasii,5.69727886025,12.7428950633
+Chlidonias niger,eats,Sprattus sprattus,5.69727886025,12.7428950633
+Chlidonias niger,eats,Sardinops sagax,5.69727886025,12.7428950633
+Chlidonias niger,eats,Sardina pilchardus,5.69727886025,12.7428950633
+Chlidonias niger,eats,Etrumeus,5.69727886025,12.7428950633
+Chlidonias niger,eats,Etrumeus teres,5.69727886025,12.7428950633
+Chlidonias niger,eats,Clupea harengus,5.69727886025,12.7428950633
+Synodontis,eats,oysters,7.96276599393,-1.20776794429
+Synodontis,eats,terrestial insects,7.96276599393,-1.20776794429
+Actinopterygii,eats,Calanus,0,0
+Actinopterygii,eats,Copepoda,0,0
+Actinopterygii,eats,invertebrate predators,0,0
+Actinopterygii,eats,Decapoda,0,0
+Actinopterygii,eats,Actinopterygii,0,0
+Actinopterygii,eats,Euphausiidae,0,0
+Actinopterygii,eats,Hyperiidae,0,0
+Liza falcipinnis,eats,Actinopterygii,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,fish scales,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Ostracoda,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,benth. invertebrates,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Netrium,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Pleurosigma,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Aphanocapsa,7.96276599393,-1.20776794429
+Liza falcipinnis,eats,Cyanobacteria,8.560717918,-11.7910316818
+Polypterus,eats,Odonata nymphs,7.96276599393,-1.20776794429
+Polypterus,eats,Orthoptera larvae,7.96276599393,-1.20776794429
+Polypterus,eats,Diptera larvae,7.96276599393,-1.20776794429
+Polypterus,eats,Aves,7.96276599393,-1.20776794429
+Polypterus,eats,Odonata,7.96276599393,-1.20776794429
+Polypterus,eats,Orthoptera,7.96276599393,-1.20776794429
+Polypterus,eats,Trichoptera,7.96276599393,-1.20776794429
+Polypterus,eats,Hemiptera,7.96276599393,-1.20776794429
+Polypterus,eats,Brachyura,7.96276599393,-1.20776794429
+Synodontis schall,eats,Biomphalaria,7.96276599393,-1.20776794429
+Synodontis schall,eats,oysters,7.96276599393,-1.20776794429
+Synodontis schall,eats,terrestial insects,7.96276599393,-1.20776794429
+Distichodus rostratus,eats,Plantae,7.96276599393,-1.20776794429
+Distichodus rostratus,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Distichodus rostratus,eats,Phytoplankton,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Tomopteris,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Paracalanus,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Calanus,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Hyperia,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Helicostomella,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Globigerina bulloides,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Cribostomum bradyi,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Camerina elegans,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Lensia,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Obelia,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Prorocentrum micans,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Protoperidinium divergens,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Ceratium longipes,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Ceratium candelabrum,7.96276599393,-1.20776794429
+Ethmalosa fimbriata,eats,Copepoda,7.62329146871,-5.55397238509
+Ethmalosa fimbriata,eats,Thalassiosira,7.62329146871,-5.55397238509
+Ethmalosa fimbriata,eats,Thalassiothrix,7.62329146871,-5.55397238509
+Ethmalosa fimbriata,eats,Cephalocarida,7.62329146871,-5.55397238509
+Ethmalosa fimbriata,eats,Ceratium,7.62329146871,-5.55397238509
+Ethmalosa fimbriata,eats,Cocconeis,8.560717918,-11.7910316818
+Calanus,eats,Bacillariophyceae,0,0
+Calanus,eats,Pyrrophycophyta,0,0
+Calanus,eats,Ciliophora,0,0
+Pellonula leonensis,eats,Pellonula leonensis,7.96276599393,-1.20776794429
+Pellonula leonensis,eats,Ethmalosa fimbriata,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,brachyuran larvae,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,bivalve larvae,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Actinopterygii,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Cyclopidae,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Trichocerca,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Oikopleura,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,brachyuran megalopa,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Moina,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Bosmina,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Dinobryon,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Gonatozygon,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Lagerheimia,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Closterium,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Actinotaenium,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Surirella,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Cyclotella,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Gyrosigma,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Pinnularia,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Mastogloia,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Eucampia,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Synedra,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Asterionella,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,benthic diatoms,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Chaetoceros,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Calothrix,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Spirulina,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Trichodesmium,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Oscillatoria,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Lyngbya,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Anabaena,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Microcystis,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Microchaeta,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,Glaucocystis,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,fish scale,7.96276599393,-1.20776794429
+Sarotherodon melanotheron,eats,marine detritus,7.96276599393,-1.20776794429
+Moina,eats,Bacteria,0,0
+Clarias anguillaris,eats,Sarotherodon,7.96276599393,-1.20776794429
+Clarias anguillaris,eats,Spirodela,7.62329146871,-5.55397238509
+Clarias anguillaris,eats,surface-dwelling spiders,7.62329146871,-5.55397238509
+Clarias anguillaris,eats,Clarias anguillaris,7.62329146871,-5.55397238509
+Clarias anguillaris,eats,Hemichromis bimaculatus,7.62329146871,-5.55397238509
+Clarias anguillaris,eats,Chrysichthys,7.62329146871,-5.55397238509
+Schilbe mystus,eats,Laevicaudata,7.96276599393,-1.20776794429
+Schilbe mystus,eats,Povilla,7.96276599393,-1.20776794429
+Schilbe mystus,eats,Actinopterygii,7.96276599393,-1.20776794429
+Schilbe mystus,eats,Insecta,7.96276599393,-1.20776794429
+Schilbe mystus,eats,Nematoda,7.96276599393,-1.20776794429
+Schilbe mystus,eats,Diptera,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Povilla,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Povilla,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Rotaria,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Bryozoa,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Copepoda,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Chironomid,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Volvocaceae,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Coccoidea,7.96276599393,-1.20776794429
+Chromidotilapia guntheri,eats,Embryophyta,7.96276599393,-1.20776794429
+Copepoda,eats,Pyrrophycophyta,0,0
+Copepoda,eats,Gadiformes,0,0
+Copepoda,eats,microflagellates and perhaps bacteria,0,0
+Copepoda,eats,Ciliophora,0,0
+Copepoda,eats,Bacillariophyceae,0,0
+Citharinus citharus,eats,Plantae,7.96276599393,-1.20776794429
+Citharinus citharus,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Insecta,eats,Bacteria,0,0
+Insecta,eats,Rotifera,0,0
+Insecta,eats,Moina,0,0
+Insecta,eats,Asplanchna,0,0
+Insecta,eats,Insecta,0,0
+Insecta,eats,Cyclops,0,0
+Brycinus macrolepidotus,eats,Insecta,7.96276599393,-1.20776794429
+Brycinus macrolepidotus,eats,Plantae,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Rotaria,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Closterium,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Melosira,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Staurastrum,7.96276599393,-1.20776794429
+Sarotherodon galilaeus,eats,Bacillariophyceae,7.96276599393,-1.20776794429
+Rotifera,eats,Bacteria,0,0
+Oreochromis mweruensis,eats,Rotifera,7.96276599393,-1.20776794429
+Oreochromis mweruensis,eats,Bacillariophyceae,7.96276599393,-1.20776794429
+Oreochromis mweruensis,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Oreochromis mweruensis,eats,Plantae,7.96276599393,-1.20776794429
+Nematoda,eats,Nematoda,0,0
+Nematoda,eats,Fungi,0,0
+Nematoda,eats,Bacteria,0,0
+Chrysichthys nigrodigitatus,eats,Crustacea,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Insecta,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Actinopterygii,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Chlorophyta,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Embryophyta,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Ostracoda,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Coccoidea,7.96276599393,-1.20776794429
+Chrysichthys nigrodigitatus,eats,Tilapia zillii,7.62329146871,-5.55397238509
+Chrysichthys nigrodigitatus,eats,Pachymelania fusca,7.62329146871,-5.55397238509
+Chrysichthys nigrodigitatus,eats,Corbula,7.62329146871,-5.55397238509
+Chrysichthys nigrodigitatus,eats,filamentous algae,7.62329146871,-5.55397238509
+Chrysichthys nigrodigitatus,eats,fish scales,7.62329146871,-5.55397238509
+Labeo coubie,eats,Rotaria,7.96276599393,-1.20776794429
+Labeo coubie,eats,Volvocaceae,7.96276599393,-1.20776794429
+Labeo coubie,eats,Melosira,7.96276599393,-1.20776794429
+Labeo coubie,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Labeo coubie,eats,Cephalocarida,7.96276599393,-1.20776794429
+Petrocephalus bovei,eats,benth. invertebrates,7.96276599393,-1.20776794429
+Petrocephalus bovei,eats,Chironomidae,7.96276599393,-1.20776794429
+Petrocephalus bovei,eats,Araneae,7.96276599393,-1.20776794429
+Tilapia zillii,eats,Plantae,7.96276599393,-1.20776794429
+Tilapia zillii,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Oreochromis niloticus,eats,Phytoplankton,7.96276599393,-1.20776794429
+Oreochromis niloticus,eats,Boiga dendrophila,7.96276599393,-1.20776794429
+Sternula albifrons,eats,Scomberesox saurus,5.69727886025,12.7428950633
+Sternula albifrons,eats,Cololabis saira,5.69727886025,12.7428950633
+Sternula albifrons,eats,Belone,5.69727886025,12.7428950633
+Larus,eats,"Shrimps, prawns",5.69727886025,12.7428950633
+Larus,eats,Brachyura,5.69727886025,12.7428950633
+Chlidonias leucopterus,eats,"Shrimps, prawns",5.69727886025,12.7428950633
+Chlidonias leucopterus,eats,Brachyura,5.69727886025,12.7428950633
+Hydroprogne caspia,eats,Scomberesox saurus,5.69727886025,12.7428950633
+Hydroprogne caspia,eats,Cololabis saira,5.69727886025,12.7428950633
+Hydroprogne caspia,eats,Belone,5.69727886025,12.7428950633
+Phalacrocorax,eats,"Shrimps, prawns",5.69727886025,12.7428950633
+Phalacrocorax,eats,Brachyura,5.69727886025,12.7428950633
+Phalacrocorax,eats,Theragra chalcogramma,5.69727886025,12.7428950633
+Phalacrocorax,eats,Clupea pallasii,5.69727886025,12.7428950633
+Phalacrocorax,eats,Kondakovia longimana,5.69727886025,12.7428950633
+Phalacrocorax,eats,Pseudophycis bachus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Merluccius,5.69727886025,12.7428950633
+Phalacrocorax,eats,Macruronus novaezelandiae,5.69727886025,12.7428950633
+Phalacrocorax,eats,Macruronus magellanicus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Pleurogrammus monopterygius,5.69727886025,12.7428950633
+Phalacrocorax,eats,Pleurogrammus azonus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Pollachius virens,5.69727886025,12.7428950633
+Phalacrocorax,eats,Micromesistius poutassou,5.69727886025,12.7428950633
+Phalacrocorax,eats,Micromesistius australis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Gadus morhua,5.69727886025,12.7428950633
+Phalacrocorax,eats,Gadus macrocephalus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Eleginus gracilis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Boreogadus saida,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Engraulis,5.69727886025,12.7428950633
+Phalacrocorax,eats,Sprattus sprattus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Sardinops sagax,5.69727886025,12.7428950633
+Phalacrocorax,eats,Sardina pilchardus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Etrumeus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Etrumeus teres,5.69727886025,12.7428950633
+Phalacrocorax,eats,Clupea harengus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Trachurus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Trachurus symmetricus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Trachurus mediterraneus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Trachurus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Decapterus,5.69727886025,12.7428950633
+Phalacrocorax,eats,Teuthida,5.69727886025,12.7428950633
+Phalacrocorax,eats,Illex,5.69727886025,12.7428950633
+Phalacrocorax,eats,Loligo,5.69727886025,12.7428950633
+Gobiocichla ethelwynnae,eats,Chlorophyta,5.69727886025,12.7428950633
+Gobiocichla ethelwynnae,eats,Particles of rock and sand,5.69727886025,12.7428950633
+Pungu maclareni,eats,Wormaldia praecursor,5.69727886025,12.7428950633
+Pungu maclareni,eats,mayfly larvae,5.69727886025,12.7428950633
+Pungu maclareni,eats,larvae of chironomid midge,5.69727886025,12.7428950633
+Pungu maclareni,eats,Corvospongilla thysi,5.69727886025,12.7428950633
+Konia dikume,eats,Chaoborus,5.69727886025,12.7428950633
+Ichthyborus besse,eats,Caridea,5.69727886025,12.7428950633
+Ichthyborus besse,eats,Actinopterygii,5.69727886025,12.7428950633
+Ichthyborus besse,eats,Osteichthyes,5.69727886025,12.7428950633
+Pelecanus,eats,Oreochromis niloticus,-2.8792633295,23.6575662219
+Pelecanus onocrotalus,eats,Oreochromis niloticus,-2.8792633295,23.6575662219
+Polypterus,eats,Povilla,-2.8792633295,23.6575662219
+Polypterus,eats,Mastacembelus,-2.8792633295,23.6575662219
+Polypterus,eats,Clarias,-2.8792633295,23.6575662219
+Tylochromis regani,eats,Insecta,-2.8792633295,23.6575662219
+Tylochromis elongatus,eats,Trichoptera,-2.8792633295,23.6575662219
+Tylochromis elongatus,eats,Coleoptera,-2.8792633295,23.6575662219
+Tylochromis elongatus,eats,Large seed husks,-2.8792633295,23.6575662219
+Tylochromis elongatus,eats,coarse sand grains,-2.8792633295,23.6575662219
+Protopterus aethiopicus,eats,Tilapia zillii,-2.8792633295,23.6575662219
+Polypterus delhezi,eats,Povilla,-2.8792633295,23.6575662219
+Polypterus ornatipinnis,eats,Synodontis,-2.8792633295,23.6575662219
+Heterochromis multidens,eats,Vegetal,-2.8792633295,23.6575662219
+Heterochromis multidens,eats,Fenestraria rhopalophylla,-2.8792633295,23.6575662219
+Polypterus retropinnis,eats,Insecta,-2.8792633295,23.6575662219
+Polypterus retropinnis,eats,Vegetal,-2.8792633295,23.6575662219
+Clarias buthupogon,eats,Thecamoeba,-2.8792633295,23.6575662219
+Clarias buthupogon,eats,Ephemeroptera,-2.8792633295,23.6575662219
+Clarias angolensis,eats,Hydrachnidia,-2.8792633295,23.6575662219
+Acapoeta tanganicae,eats,Chlorophyta,-2.8792633295,23.6575662219
+Tropheus moorii,eats,Chlorophyta,-2.8792633295,23.6575662219
+Tropheus moorii,eats,Osteichthyes,-2.8792633295,23.6575662219
+Telmatochromis,eats,Porifera,-2.8792633295,23.6575662219
+Telmatochromis,eats,Chlorophyta,-2.8792633295,23.6575662219
+Telmatochromis,eats,Insecta,-2.8792633295,23.6575662219
+Telmatochromis,eats,Boiga dendrophila,-2.8792633295,23.6575662219
+Telmatochromis,eats,Osteichthyes,-2.8792633295,23.6575662219
+Telmatochromis,eats,Chlorophyta,-2.8792633295,23.6575662219
+Tanganicodus irsacae,eats,Chlorophyta,-2.8792633295,23.6575662219
+Simochromis marginatus,eats,Chlorophyta,-2.8792633295,23.6575662219
+Simochromis diagramma,eats,Chlorophyta,-2.8792633295,23.6575662219
+Simochromis diagramma,eats,Insecta,-2.8792633295,23.6575662219
+Pseudosimochromis curvifrons,eats,Chlorophyta,-2.8792633295,23.6575662219
+Petrochromis,eats,Phytoplankton,-2.8792633295,23.6575662219
+Petrochromis,eats,Osteichthyes,-2.8792633295,23.6575662219
+Petrochromis,eats,Plantae,-2.8792633295,23.6575662219
+Petrochromis,eats,Phytoplankton,-2.8792633295,23.6575662219
+Petrochromis,eats,Plantae,-2.8792633295,23.6575662219
+Petrochromis orthognathus,eats,Phytoplankton,-2.8792633295,23.6575662219
+Petrochromis,eats,Phytoplankton,-2.8792633295,23.6575662219
+Petrochromis,eats,Plantae,-2.8792633295,23.6575662219
+Petrochromis,eats,Chlorophyta,-2.8792633295,23.6575662219
+Ophthalmotilapia ventralis,eats,Chlorophyta,-2.8792633295,23.6575662219
+Ophthalmotilapia ventralis,eats,Insecta,-2.8792633295,23.6575662219
+Ophthalmotilapia ventralis,eats,Boiga dendrophila,-2.8792633295,23.6575662219
+Ophthalmotilapia nasuta,eats,Chlorophyta,-2.8792633295,23.6575662219
+Ophthalmotilapia nasuta,eats,benth. crustaceans,-2.8792633295,23.6575662219
+Ophthalmotilapia nasuta,eats,Insecta,-2.8792633295,23.6575662219
+Ophthalmotilapia nasuta,eats,Boiga dendrophila,-2.8792633295,23.6575662219
+Limnotilapia dardennii,eats,Chlorophyta,-2.8792633295,23.6575662219
+Limnotilapia dardennii,eats,Insecta,-2.8792633295,23.6575662219
+Limnotilapia dardennii,eats,Boiga dendrophila,-2.8792633295,23.6575662219
+Limnotilapia dardennii,eats,Osteichthyes,-2.8792633295,23.6575662219
+Eretmodus cyanostictus,eats,Chlorophyta,-2.8792633295,23.6575662219
+Eretmodus cyanostictus,eats,benth. crustaceans,-2.8792633295,23.6575662219
+Xenotilapia leptura,eats,Chlorophyta,-2.8792633295,23.6575662219
+Pseudotolithus senegallus,eats,Rhopalophtalmus longicauda,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Alima hieroglyhpica,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Parapenaeopsis atlantica,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Metapenaeopsis miersi,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Hippolysmata hastatoides,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Alpheus floridanus,7.62329146871,-5.55397238509
+Pseudotolithus senegallus,eats,Phyllodorippe armata,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Sthenelais limicola,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Stylarioides,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Ophelia,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Goniada congoensis,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Glycera tesselata,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Glycera,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Leucothoe incisa,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Ampelisca,7.62329146871,-5.55397238509
+Pseudupeneus prayensis,eats,Ampelisca brevicornis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Schizamminia sp.,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Operculina,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Serpulidae,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Clymene,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Glycera,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Phyllochaetopterus socialis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Chloeia viridis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Panthalis bicolor,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Nematoda,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Cadulus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Philine aperta,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Polinices fusca,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Nassarius vinctus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Janthina janthina,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Cylichna,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Eubranchus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Venus chevreuxi,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Lissochlamys exotica,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Nucula,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Europicardium caparti,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pitaria,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Nuculana,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Corbula,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Striarca lactea,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Virgularia mirabilis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Squilla mantis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Parapenaeus longirostris,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pontophilus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pontophilus bidens,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Alpheus talismani,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Eocuma lanata,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Apseudopsis acutifrons,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Scyllarus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Gebiacantha talismani,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Raninoides bouvieri,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Macropipus rugosus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Cronius ruber,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Heterocrypta maltzani,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pagurus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pagurus cuanensis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pagurus alatus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Anapagurus laevis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pisa carinimana,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Macropodia,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Inachus angolensis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Eurynome parvirostris,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Achaeus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ilia spinosa,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ebalia nux,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ebalia affinis,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pilumnoplax oxyacantha,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Galathea intermedia,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ethusa rugulosa,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ethusa mascarone,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Medorippe lanata,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Paguristes,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Areopaguristes mauritanicus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Diogenes,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Dardanus,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Calappa peli,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Homola barbata,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Solenolambrus noordendei,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Pseudomyra,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Medaeus rouxi,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Spinolambrus macrochelos,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Ampelisca,7.62329146871,-5.55397238509
+Dentex angolensis,eats,Sepia,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Gastrosaccus sanctus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Acanthomysis,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Phyllodoce lineata,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Nereis lamellosa,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Cardita,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Amphiura,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Amphioplus congensis,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Alima hieroglyphica,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Lysiosquilla,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Eurysquilla,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Sicyonia galeata,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Parapenaeopsis atlantica,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Brachycarpus biunguiculatus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Ogyrides rarispina,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Hippolysmata hastatoides,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Philocheras wolffi,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Alpheus floridanus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Callinectes gladiator,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Spiropagurus elegans,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Anapagurus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Achaeus monodi,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Atlantolocia laevidorsalis,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Phyllodorippe armata,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Areopaguristes hispidus,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Neptunus inaequalis,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Mebeli michaelseni,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Idunella picta,7.62329146871,-5.55397238509
+Galeoides decadactylus,eats,Ampelisca brevicornis,7.62329146871,-5.55397238509
+Cynoglossus,eats,Onuphis eremita,7.62329146871,-5.55397238509
+Cynoglossus,eats,Nuculana tuberculata,7.62329146871,-5.55397238509
+Cynoglossus,eats,Nuculana pernula,7.62329146871,-5.55397238509
+Cynoglossus,eats,Tellina,7.62329146871,-5.55397238509
+Cynoglossus,eats,Abra pilsbryi,7.62329146871,-5.55397238509
+Cynoglossus,eats,Sinupharus africanus,7.62329146871,-5.55397238509
+Cynoglossus,eats,Nucula crassidens,7.62329146871,-5.55397238509
+Cynoglossus,eats,Cardita,7.62329146871,-5.55397238509
+Cynoglossus,eats,Alima hieroglyphica,7.62329146871,-5.55397238509
+Cynoglossus,eats,Parapenaeopsis atlantica,7.62329146871,-5.55397238509
+Cynoglossus,eats,Ogyrides rarispina,7.62329146871,-5.55397238509
+Cynoglossus,eats,Alpheus floridanus,7.62329146871,-5.55397238509
+Cynoglossus,eats,Phyllodorippe armata,7.62329146871,-5.55397238509
+Cynoglossus,eats,Mebeli michaelseni,7.62329146871,-5.55397238509
+Cynoglossus,eats,Ampelisca,7.62329146871,-5.55397238509
+Priacanthus arenatus,eats,Acanthomysis,7.62329146871,-5.55397238509
+Priacanthus arenatus,eats,Processa parva,7.62329146871,-5.55397238509
+Priacanthus arenatus,eats,Brachycarpus biunguiculatus,7.62329146871,-5.55397238509
+Priacanthus arenatus,eats,Philocheras bispinosus bispinosus,7.62329146871,-5.55397238509
+Priacanthus arenatus,eats,Ampelisca,7.62329146871,-5.55397238509
+Lagocephalus laevigatus,eats,Farfantepenaeus duorarum,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Rhopalophtalmus longicauda,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Afromysis,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Acanthomysis,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Processa,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Parapenaeopsis atlantica,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Ogyrides rarispina,7.62329146871,-5.55397238509
+Pteroscion peli,eats,Mebeli michaelseni,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Brachyuran megalops,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Rhopalophtalmus longicauda,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Acanthomysis,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Parapenaeopsis atlantica,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Ogyrides rarispina,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Lucifer,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Hippolysmata hastatoides,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Pontophilus,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Athanas,7.62329146871,-5.55397238509
+Pentanemus quinquarius,eats,Atlantophila cristata,7.62329146871,-5.55397238509
+Serranus,eats,Acanthomysis,7.62329146871,-5.55397238509
+Serranus,eats,Meiosquilla,7.62329146871,-5.55397238509
+Serranus,eats,Processa parva,7.62329146871,-5.55397238509
+Serranus,eats,Paragebicula contigua,7.62329146871,-5.55397238509
+Elops lacerta,eats,Aloidis trigona,7.62329146871,-5.55397238509
+Elops lacerta,eats,Parapaenopsis sp.,7.62329146871,-5.55397238509
+Elops lacerta,eats,Pagellus,7.62329146871,-5.55397238509
+Elops lacerta,eats,Dentex dentex,7.62329146871,-5.55397238509
+Elops lacerta,eats,Gobius,7.62329146871,-5.55397238509
+Elops lacerta,eats,Gerres,7.62329146871,-5.55397238509
+Elops lacerta,eats,Engraulis,7.62329146871,-5.55397238509
+Elops lacerta,eats,Pellonula leonensis,7.62329146871,-5.55397238509
+Elops lacerta,eats,Ethmalosa fimbriata,7.62329146871,-5.55397238509
+Elops lacerta,eats,Tylochromis jentinki,7.62329146871,-5.55397238509
+Elops lacerta,eats,Tilapia zillii,7.62329146871,-5.55397238509
+Elops lacerta,eats,Caranx,7.62329146871,-5.55397238509
+Elops lacerta,eats,Belone,7.62329146871,-5.55397238509
+Pseudotolithus,eats,Acanthomysis,7.62329146871,-5.55397238509
+Pseudotolithus,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Diaphanosoma excisum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Chironomid larvae,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Chironomidae,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pisidium,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Hydropsyche,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Ecnomus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Dipseudopsis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Chematopsyche sp.,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Ceracea,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Phyllomacronia sp.,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Phyllogomphus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Cerbagrion sp.,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Thraulus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Povilla,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Centroptilum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Caenodes sp.,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Adenophlebiodes,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Tipula,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Tabanus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Psychoda,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Helius,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Eristalis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Chaoborus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Ceratopogon,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Atherix,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Aedes,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Nebrioporus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Lacophilus sp.,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Donacia,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Hadrobregmus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Trachelomonas hispida,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Phacus platalea,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Phacus orbicularis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Lepocinclis marssonii,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Euglena,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Scenedesmus disciformis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Scenedesmus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Scenedesmus quadricauda,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Scenedesmus falcatus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Monoraphidium arcuatum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Ankistrodemus fusiformis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Ankistrodemus falcatus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pediastrum tetras,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pediastrum duplex,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pediastrum biradiatum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Staurastrum johnsonii,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Staurastrum brachioprominens,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Cosmarium margaritatum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Cosmarium connatum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Closterium venus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Closterium ralfsii,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Coelastrum microporum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pinnularia,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pinnularia mesolepta,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pinnularia cf. interrupta,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pinnularia braunii,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Hantzschia,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Kobayasia subtilissima,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Navicula,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Aulacoseira granulata,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Gomphoneis herculeana,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Gomphonema aequirostrum,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Eunotia faba,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Eunotia bactriana,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Fragilaria virenscens,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Asterionella formosa,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Amphora ovalis,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Terpsinoe musica,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Frustulia rhomboides,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Spirulina,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Spirulina princeps,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Oscillatoria princeps,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Pseudanabaena catenata,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Anabaena,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Microcystis aeruginosa,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Hapalosiphon,7.62329146871,-5.55397238509
+Mormyrus rume,eats,Chroococcus,7.62329146871,-5.55397238509
+Mormyrus rume,eats,fruit,7.62329146871,-5.55397238509
+Ilisha africana,eats,Nematopalaemon hastatus,7.62329146871,-5.55397238509
+Ilisha africana,eats,Actinopterygii,8.560717918,-11.7910316818
+Ilisha africana,eats,Stomatopoda,8.560717918,-11.7910316818
+Ilisha africana,eats,Trichodesmium,8.560717918,-11.7910316818
+Ilisha africana,eats,Noctiluca,8.560717918,-11.7910316818
+Ilisha africana,eats,Bacillaria,8.560717918,-11.7910316818
+Ilisha africana,eats,fish scales,8.560717918,-11.7910316818
+Ilisha africana,eats,fish bones,8.560717918,-11.7910316818
+Ilisha africana,eats,Mollusca,8.560717918,-11.7910316818
+Ilisha africana,eats,Pasiphaeidae,8.560717918,-11.7910316818
+Ilisha africana,eats,Boiga dendrophila,8.560717918,-11.7910316818
+Chloroscombrus chrysurus,eats,Lucifer,7.62329146871,-5.55397238509
+Selene setapinnis,eats,Brachyuran megalops,7.62329146871,-5.55397238509
+Selene setapinnis,eats,Stomatopod larvae,7.62329146871,-5.55397238509
+Selene setapinnis,eats,Homarus gammarus,7.62329146871,-5.55397238509
+Selene setapinnis,eats,Acanthomysis,7.62329146871,-5.55397238509
+Mormyrops anguilloides,eats,Cichlidae,7.62329146871,-5.55397238509
+Mormyrops anguilloides,eats,Ephemeroptera,7.62329146871,-5.55397238509
+Mormyrops anguilloides,eats,Plantae,7.62329146871,-5.55397238509
+Mormyrops anguilloides,eats,Odonata,7.62329146871,-5.55397238509
+Mormyrops anguilloides,eats,Phytoplankton,7.62329146871,-5.55397238509
+Balaenoptera edeni,eats,Vinciguerria nimbaria,8.560717918,-11.7910316818
+Stenella longirostris,eats,Vinciguerria nimbaria,8.560717918,-11.7910316818
+Aspidiotus destructor,eats,Pandanus,8.1,-1.2
+Aspidiotus destructor,eats,Ananas comosus,8.1,-1.2
+Aspidiotus destructor,eats,Havea brazilensis,8.1,-1.2
+Aspidiotus destructor,eats,Cocos nucifera,8.1,-1.2
+Aspidiotus destructor,eats,Theobroma cacao,8.1,-1.2
+Aspidiotus destructor,eats,Psidium guajava,8.1,-1.2
+Aspidiotus destructor,eats,Elaeis guineensis,8.1,-1.2
+Aspidiotus destructor,eats,Loranthus,8.1,-1.2
+Aspidiotus destructor,eats,Camellia sinensis,8.1,-1.2
+Aspidiotus destructor,eats,Prunus persica,8.1,-1.2
+Aspidiotus destructor,eats,Saccharum officinarum,8.1,-1.2
+Aspidiotus destructor,eats,Musa paradisiaca,8.1,-1.2
+Aspidiotus destructor,eats,Citrus,8.1,-1.2
+Aspidiotus destructor,eats,Mangifera indica,8.1,-1.2
+Aspidiotus destructor,eats,Pandanus,8.5,-11.5
+Aspidiotus destructor,eats,Ananas comosus,8.5,-11.5
+Aspidiotus destructor,eats,Havea brazilensis,8.5,-11.5
+Aspidiotus destructor,eats,Cocos nucifera,8.5,-11.5
+Aspidiotus destructor,eats,Theobroma cacao,8.5,-11.5
+Aspidiotus destructor,eats,Psidium guajava,8.5,-11.5
+Aspidiotus destructor,eats,Elaeis guineensis,8.5,-11.5
+Aspidiotus destructor,eats,Loranthus,8.5,-11.5
+Aspidiotus destructor,eats,Camellia sinensis,8.5,-11.5
+Aspidiotus destructor,eats,Prunus persica,8.5,-11.5
+Aspidiotus destructor,eats,Saccharum officinarum,8.5,-11.5
+Aspidiotus destructor,eats,Musa paradisiaca,8.5,-11.5
+Aspidiotus destructor,eats,Citrus,8.5,-11.5
+Aspidiotus destructor,eats,Mangifera indica,8.5,-11.5
+Anopheles gambiae,eats,Primates,8.5,-11.5
+Anopheles gambiae,eats,Capra hircus,8.5,-11.5
+Anopheles gambiae,eats,Bos taurus,8.5,-11.5
+Anopheles gambiae,eats,Homo sapiens,8.5,-11.5
+Anopheles gambiae,eats,Primates,6.5,-9.5
+Anopheles gambiae,eats,Capra hircus,6.5,-9.5
+Anopheles gambiae,eats,Bos taurus,6.5,-9.5
+Anopheles gambiae,eats,Homo sapiens,6.5,-9.5
+Anopheles gambiae,eats,Primates,-1,15.5
+Anopheles gambiae,eats,Capra hircus,-1,15.5
+Anopheles gambiae,eats,Bos taurus,-1,15.5
+Anopheles gambiae,eats,Homo sapiens,-1,15.5
+Anopheles,eats,Capra hircus,8.5,-11.5
+Anopheles,eats,Bos taurus,8.5,-11.5
+Anopheles,eats,Homo sapiens,8.5,-11.5
+Anopheles,eats,Capra hircus,6.5,-9.5
+Anopheles,eats,Bos taurus,6.5,-9.5
+Anopheles,eats,Homo sapiens,6.5,-9.5
+Anopheles,eats,Capra hircus,-1,15.5
+Anopheles,eats,Bos taurus,-1,15.5
+Anopheles,eats,Homo sapiens,-1,15.5
+Lepidosaphes beckii,eats,Eucalyptus,-2.5,23.5
+Lepidosaphes beckii,eats,Persea,-2.5,23.5
+Lepidosaphes beckii,eats,Olea,-2.5,23.5
+Lepidosaphes beckii,eats,Croton,-2.5,23.5
+Lepidosaphes beckii,eats,Ficus,-2.5,23.5
+Lepidosaphes beckii,eats,Taxus,-2.5,23.5
+Lepidosaphes beckii,eats,Morus,-2.5,23.5
+Lepidosaphes beckii,eats,Citrus,-2.5,23.5
+Casphalia,eats,Cocos nucifera,8,-5.5
+Casphalia,eats,Elaeis,8,-5.5
+Teinorhyncha umbra,eats,Musa,8,-5.5
+Maliarpha separatella,eats,Sorghum,8,-5.5
+Maliarpha separatella,eats,Oryza sativa,8,-5.5
+Turnaca,eats,Cocos nucifera,8,-5.5
+Turnaca,eats,Elaeis,8,-5.5
+Parasa viridissima,eats,Cocos nucifera,8,-5.5
+Parasa viridissima,eats,Elaeis,8,-5.5
+Pteroteinon laufella,eats,Cocos nucifera,8,-5.5
+Pteroteinon laufella,eats,Elaeis,8,-5.5
+Parasa,eats,Coffea,8,-5.5
+Parasa,eats,Ricinus communis,8,-5.5
+Spodoptera littoralis,eats,Chrysanthemum,8,-5.5
+Spodoptera littoralis,eats,Gossypium hirsutum,8,-5.5
+Simulium damnosum,eats,Homo sapiens,8,-5.5
+Eriophyes,eats,Cocos,8,-5.5
+Hypothenemus hampei,eats,Coffea,8,-5.5
+Hypothenemus hampei,eats,Coffea,8.66667,1.08333
+Anopheles,eats,Capra hircus,8.66667,1.08333
+Anopheles,eats,Bos taurus,8.66667,1.08333
+Anopheles,eats,Homo sapiens,8.66667,1.08333
+Pseudaulacaspis pentagona,eats,Callicarpa,1,7
+Pseudaulacaspis pentagona,eats,Hibiscus,1,7
+Pseudaulacaspis pentagona,eats,Phoenix dactylifera,1,7
+Pseudaulacaspis pentagona,eats,Carica papaya,1,7
+Pseudaulacaspis pentagona,eats,Melia,1,7
+Pseudaulacaspis pentagona,eats,Flacourtia indica,1,7
+Pseudaulacaspis pentagona,eats,Olea,1,7
+Pseudaulacaspis pentagona,eats,Diospyros,1,7
+Pseudaulacaspis pentagona,eats,Manihot esculenta,1,7
+Pseudaulacaspis pentagona,eats,Juglans,1,7
+Pseudaulacaspis pentagona,eats,Prunus,1,7
+Pseudaulacaspis pentagona,eats,Vitis,1,7
+Pseudaulacaspis pentagona,eats,Camellia sinensis,1,7
+Pseudaulacaspis pentagona,eats,Morus,1,7
+Pseudaulacaspis pentagona,eats,Prunus persica,1,7
+Pseudaulacaspis pentagona,eats,Malus,1,7
+Anopheles quadrimaculatus,eats,Canis lupus familiaris,6.5,-9.5
+Anopheles quadrimaculatus,eats,Equus caballus,6.5,-9.5
+Anopheles quadrimaculatus,eats,Homo sapiens,6.5,-9.5
+Eidolon helvum,eats,Spathodea campanulata,6.145624,-0.554963
+Eidolon helvum,eats,Milicia excelsa,6.3382643733,-0.4172376643
+Eidolon helvum,eats,Musa,1.9454709041,9.6774619422
+Eidolon helvum,eats,Mangifera indica,5.5909278779,-0.2030688983
+Urotriorchis macrourus,eats,Hypsignathus monstrosus,0.588935,10.434814
+Kaupifalco monogrammicus,eats,Serpentes,8.176319,-6.852808
+Pteropodidae,eats,Azadirachta indica,5.584753,-0.184769
+Pteropodidae,eats,Terminalia catappa,5.584753,-0.184769
+Pteropodidae,eats,Terminalia catappa,5.563968,-0.1401
+Hapsidophrys smaragdinus,eats,Anura,2.21109,16.192916
+Chalcomitra rubescens,eats,Musa velutina,3.800889,11.555144
+Euphausiidae,eats,Pyrrophycophyta,0,0
+Euphausiidae,eats,Copepoda,0,0
+Euphausiidae,eats,Gadiformes,0,0
+Decapoda,eats,Copepoda,0,0
+Decapoda,eats,Gadiformes,0,0
+Decapoda,eats,Pyrrophycophyta,0,0
+Thunnini,eats,Decapoda,0,0
+Thunnini,eats,Actinopterygii,0,0
+Thunnini,eats,Euphausiidae,0,0
+Thunnini,eats,Diaphus splendidus,0,0
+Thunnini,eats,Hyperiidae,0,0
+Thunnini,eats,Gempylus serpens,0,0
+Thunnini,eats,Cephalopoda,0,0
+Thunnini,eats,Alepisaurus,0,0
+Asplanchna,eats,Cyclops,0,0
+Asplanchna,eats,Asplanchna,0,0
+Asplanchna,eats,Moina,0,0
+Asplanchna,eats,Rotifera,0,0
+Protozoa,eats,Bacteria,0,0
+Diaphus splendidus,eats,Copepoda,0,0
+Diaphus splendidus,eats,Hyperiidae,0,0
+Ciliophora,eats,microflagellates and perhaps bacteria,0,0
+macroarthropod,eats,Nematoda,0,0
+macroarthropod,eats,Mycorrhyzae,0,0
+macroarthropod,eats,Fungi,0,0
+Cephalopoda,eats,Exocoetidae,0,0
+Cephalopoda,eats,Diaphus splendidus,0,0
+Exocoetidae,eats,Hyperiidae,0,0
+Exocoetidae,eats,Copepoda,0,0
+Exocoetidae,eats,Euphausiidae,0,0
+Chondrichthyes,eats,Thunnini,0,0
+Chondrichthyes,eats,Istiophoridae,0,0
+Chondrichthyes,eats,Chondrichthyes,0,0
+Chondrichthyes,eats,Mola mola,0,0
+Chondrichthyes,eats,Cephalopoda,0,0
+Chondrichthyes,eats,Alepisaurus,0,0
+Istiophoridae,eats,Actinopterygii,0,0
+Istiophoridae,eats,Cephalopoda,0,0
+Istiophoridae,eats,Thunnini,0,0
+Istiophoridae,eats,Alepisaurus,0,0
+Alepisaurus,eats,Actinopterygii,0,0
+Alepisaurus,eats,Hyperiidae,0,0
+Alepisaurus,eats,Cephalopoda,0,0
+Alepisaurus,eats,Gempylus serpens,0,0
+invertebrate predators,eats,Copepoda,0,0
+invertebrate predators,eats,Ctenophora,0,0
+invertebrate predators,eats,Calanus,0,0
+invertebrate predators,eats,Ciliophora,0,0
+Cyclops,eats,Bacteria,0,0
+Cyclops,eats,Rotifera,0,0
+Cyclops,eats,Moina,0,0
+Bacteria,eats,Bacteria,0,0
+Mola mola,eats,Copepoda,0,0
+Coryphaenidae,eats,Diaphus splendidus,0,0
+Coryphaenidae,eats,Exocoetidae,0,0
+Hyperiidae,eats,Copepoda,0,0
+Gempylus serpens,eats,Exocoetidae,0,0
+Gempylus serpens,eats,Diaphus splendidus,0,0
+Rousettus egyptiacus,hostOf,Eucampsipoda africana,-1,11.75
+Rousettus egyptiacus,hostOf,Nycteribia schmidlii,-1,11.75
+Rousettus egyptiacus,hostOf,Brachytarsina alluaudi,-1,11.75
+Miniopterus,hostOf,Penicillidia fulvida,-1,11.75
+Miniopterus,hostOf,Brachytarsina alluaudi,-1,11.75
+Miniopterus,hostOf,Nycteribia schmidlii,-1,11.75
+Miniopterus,hostOf,Eucampsipoda africana,-1,11.75
+Hipposideros,hostOf,Raymondia huberi,-1,11.75
+Hipposideros,hostOf,Nycteribia schmidlii,-1,11.75
+Hipposideros,hostOf,Brachytarsina alluaudi,-1,11.75
+Hipposideros,hostOf,Eucampsipoda africana,-1,11.75
+Hipposideros,hostOf,Penicillidia fulvida,-1,11.75
+Coleura afra,hostOf,Penicillidia fulvida,-1,11.75
+Coleura afra,hostOf,Nycteribia schmidlii,-1,11.75
+Coleura afra,hostOf,Eucampsipoda africana,-1,11.75
+Hipposideros,hostOf,Raymondia huberi,-1,11.75
+Hipposideros,hostOf,Penicillidia fulvida,-1,11.75
+Hipposideros,hostOf,Eucampsipoda africana,-1,11.75
+Hipposideros,hostOf,Brachytarsina alluaudi,-1,11.75
+Hipposideros,hostOf,Nycteribia schmidlii,-1,11.75
+Paecilomyces lilacinus,pathogenOf,Aethus,8.1,-1.2
+Sporothrix,pathogenOf,Paltothyreus tarsatus,8.1,-1.2
+Akanthomyces,pathogenOf,Paltothyreus tarsatus,8.1,-1.2
+Caudospora nasiae,pathogenOf,Simulium,8.1,-1.2
+Herpetomonas,pathogenOf,Musca domestica,8.1,-1.2
+Herpetomonas,pathogenOf,Sarcophaga,-1,15.5
+Herpetomonas,pathogenOf,Chrysomya putoria,-1,15.5
+Herpetomonas,pathogenOf,Musca domestica,-1,15.5
+Lecanicillium lecanii,pathogenOf,Aspidiotus destructor,8.1,-1.2
+Nectria coccophila,pathogenOf,Aspidiotus destructor,8.1,-1.2
+Nectria coccophila,pathogenOf,Lepidosaphes beckii,-2.5,23.5
+Nectria coccophila,pathogenOf,Pseudaonidia trilobitiformis,1,7
+Nectria coccophila,pathogenOf,Pseudaulacaspis pentagona,1,7
+Leptomonas,pathogenOf,Dysdercus,8.5,-11.5
+Leptomonas,pathogenOf,Mirperus jaculus,-1,15.5
+Leptomonas,pathogenOf,Cosmolestes,-1,15.5
+Leptomonas,pathogenOf,Cletus,-1,15.5
+Leptomonas,pathogenOf,Cletus bisbipunctatus,-1,15.5
+Leptomonas,pathogenOf,Rhinoestrus,-1,15.5
+Leptomonas,pathogenOf,Oestrus variolosus,-1,15.5
+Leptomonas,pathogenOf,Oestrus aureoargentatus,-1,15.5
+Leptomonas,pathogenOf,Kirkioestrus minutus,-1,15.5
+Leptomonas,pathogenOf,Gedoelstia cristata,-1,15.5
+Leptomonas,pathogenOf,Asilus,-1,15.5
+Leptomonas,pathogenOf,Chrysomya putoria,-1,15.5
+Leptomonas,pathogenOf,Stratiomys,-1,15.5
+Leptomonas,pathogenOf,Lygaeus,-1,15.5
+Leptomonas,pathogenOf,Rhynocoris,-1,15.5
+Leptomonas,pathogenOf,Oncopeltus,-1,15.5
+Leptomonas,pathogenOf,Lucilia,-1,15.5
+Leptomonas,pathogenOf,Lucilia sericata,-1,15.5
+Leptomonas,pathogenOf,Anopheles,-1,15.5
+Leptomonas,pathogenOf,Anopheles,-1,15.5
+Nectria,pathogenOf,Aspidiotus destructor,8.5,-11.5
+Coelomomyces africanus,pathogenOf,Anopheles,8.5,-11.5
+Coelomomyces africanus,pathogenOf,Anopheles,6.5,-9.5
+Coelomomyces africanus,pathogenOf,Anopheles,6.5,-9.5
+Coelomomyces walkeri,pathogenOf,Anopheles,8.5,-11.5
+Coelomomyces walkeri,pathogenOf,Anopheles,8.5,-11.5
+Fusarium,pathogenOf,Aspidiotus destructor,8.5,-11.5
+Tetracrium,pathogenOf,Lepidosaphes beckii,-2.5,23.5
+Podonectria coccicola,pathogenOf,Lepidosaphes beckii,-2.5,23.5
+Densovirus,pathogenOf,Casphalia,8,-5.5
+Tetravirus,pathogenOf,Teinorhyncha umbra,8,-5.5
+Tetravirus,pathogenOf,Maliarpha separatella,8,-5.5
+Picornaviridae,pathogenOf,Turnaca,8,-5.5
+Picornaviridae,pathogenOf,Epicerura pergrisea,8,-5.5
+Picornaviridae,pathogenOf,Pteroteinon laufella,8,-5.5
+Picornaviridae,pathogenOf,Parasa,8,-5.5
+Picornaviridae,pathogenOf,Parasa viridissima,8,-5.5
+Spodoptera littoralis,pathogenOf,Spodoptera littoralis,8,-5.5
+Granulovirus,pathogenOf,Spodoptera littoralis,8,-5.5
+NPV,pathogenOf,Parasa viridissima,8,-5.5
+Tetrahymena,pathogenOf,Simulium damnosum,8,-5.5
+Hirsutella,pathogenOf,Eriophyes,8,-5.5
+Hirsutella,pathogenOf,Rastrococcus,8.66667,1.08333
+Isaria farinosa,pathogenOf,Hypothenemus hampei,8,-5.5
+Isaria farinosa,pathogenOf,Hypothenemus hampei,8.66667,1.08333
+Beauveria bassiana,pathogenOf,Hypothenemus hampei,8,-5.5
+Beauveria bassiana,pathogenOf,Hypothenemus hampei,8.66667,1.08333
+Mattesia,pathogenOf,Prostephanus truncatus,8.66667,1.08333
+Vorticella,pathogenOf,Anopheles,8.66667,1.08333
+Crithidia,pathogenOf,Tabanus,1,7
+Crithidia,pathogenOf,Haematopota,-1,15.5
+Crithidia,pathogenOf,Stasisia rodhaini,-1,15.5
+Crithidia,pathogenOf,Stratiomys,-1,15.5
+Crithidia,pathogenOf,Pangonia neavi,-1,15.5
+Crithidia,pathogenOf,Chrysomya putoria,-1,15.5
+Nosema,pathogenOf,Anopheles,6.5,-9.5
+Nosema,pathogenOf,Anopheles quadrimaculatus,6.5,-9.5
+Nosema,pathogenOf,Anopheles,6.5,-9.5
+Blastocrithidia,pathogenOf,Haematopota,-1,15.5
+Blastocrithidia,pathogenOf,Rhynocoris,-1,15.5
+Blastocrithidia,pathogenOf,Pangonia neavi,-1,15.5
+Leptomonas mirabilis,pathogenOf,Chrysomya putoria,-1,15.5
+Pleistophora,pathogenOf,Anopheles,-1,15.5
+Englerina,parasiteOf,Mitragyna,8.1,-1.2
+Pedicinus,parasiteOf,Procolobus rufomitratus,8.1,-1.2
+Pedicinus,parasiteOf,Procolobus,8.1,-1.2
+Pedicinus,parasiteOf,Colobus polykomos,8.1,-1.2
+Pedicinus,parasiteOf,Procolobus rufomitratus,8.5,-11.5
+Pedicinus,parasiteOf,Procolobus,8.5,-11.5
+Pedicinus,parasiteOf,Colobus polykomos,8.5,-11.5
+Pedicinus,parasiteOf,Procolobus rufomitratus,6.5,-9.5
+Pedicinus,parasiteOf,Procolobus,6.5,-9.5
+Pedicinus,parasiteOf,Colobus polykomos,6.5,-9.5
+Pedicinus,parasiteOf,Procolobus rufomitratus,-1,15.5
+Pedicinus,parasiteOf,Procolobus,-1,15.5
+Pedicinus,parasiteOf,Colobus polykomos,-1,15.5
+Polyplax,parasiteOf,Tatera,8.1,-1.2
+Polyplax,parasiteOf,Lophuromys,8,-5.5
+Polyplax,parasiteOf,Lophuromys flavopunctatus,8,-5.5
+Polyplax,parasiteOf,Tatera,8.66667,1.08333
+Polyplax,parasiteOf,Lophuromys,8.66667,1.08333
+Polyplax,parasiteOf,Lophuromys flavopunctatus,8.66667,1.08333
+Polyplax,parasiteOf,Acomys russatus,8.66667,1.08333
+Polyplax,parasiteOf,Acomys,8.66667,1.08333
+Polyplax,parasiteOf,Acomys cahirinus,8.66667,1.08333
+Polyplax,parasiteOf,Lophuromys,6.5,-9.5
+Polyplax,parasiteOf,Lophuromys flavopunctatus,6.5,-9.5
+Polyplax,parasiteOf,Dasymys,6.5,-9.5
+Polyplax,parasiteOf,Dasymys,6.5,-9.5
+Polyplax,parasiteOf,Dasymys,6.5,-9.5
+Polyplax,parasiteOf,Dasymys,6.5,-9.5
+Polyplax,parasiteOf,Lophuromys,-1,15.5
+Polyplax,parasiteOf,Lophuromys flavopunctatus,-1,15.5
+Polyplax,parasiteOf,Arvicanthis niloticus,6,12.5
+Polyplax,parasiteOf,Arvicanthis,6,12.5
+Polyplax,parasiteOf,Muroidea,7,21
+Polyplax,parasiteOf,Steatomys,7,21
+Polyplax,parasiteOf,Praomys,7,21
+Polyplax,parasiteOf,Praomys,7,21
+Polyplax,parasiteOf,Myomys albipes,7,21
+Polyplax,parasiteOf,Mastomys natalensis,7,21
+Polyplax,parasiteOf,Mastomys,7,21
+Polyplax,parasiteOf,Lophuromys,7,21
+Polyplax,parasiteOf,Lophuromys flavopunctatus,7,21
+Polyplax,parasiteOf,Grammomys,7,21
+Polyplax,parasiteOf,Arvicanthis niloticus,7,21
+Polyplax,parasiteOf,Arvicanthis,7,21
+Proenderleinellus calva,parasiteOf,Cricetomys gambianus,8.1,-1.2
+Proenderleinellus calva,parasiteOf,Cricetomys emini,8.1,-1.2
+Proenderleinellus calva,parasiteOf,Cricetomys gambianus,8.66667,1.08333
+Proenderleinellus calva,parasiteOf,Cricetomys emini,8.66667,1.08333
+Proenderleinellus calva,parasiteOf,Cricetomys gambianus,-1,15.5
+Proenderleinellus calva,parasiteOf,Cricetomys emini,-1,15.5
+Pediculus schaeffi,parasiteOf,Pan troglodytes,8.5,-11.5
+Pediculus schaeffi,parasiteOf,Pan paniscus,8.5,-11.5
+Pediculus schaeffi,parasiteOf,Pan troglodytes,-1,15.5
+Pediculus schaeffi,parasiteOf,Pan paniscus,-1,15.5
+Pedicinus,parasiteOf,Procolobus,8.5,-11.5
+Pedicinus,parasiteOf,Procolobus,6.5,-9.5
+Ceratosolen acutatus,parasiteOf,Ficus,8,-5.5
+Agaon,parasiteOf,Ficus,8,-5.5
+Agaon,parasiteOf,Ficus,6,12.5
+Agaon obtusum,parasiteOf,Ficus,8,-5.5
+Hoplopleura,parasiteOf,Myomys daltoni,8,-5.5
+Hoplopleura,parasiteOf,Praomys,8.66667,1.08333
+Hoplopleura,parasiteOf,Praomys,8.66667,1.08333
+Hoplopleura,parasiteOf,Praomys delectorum,8.66667,1.08333
+Hoplopleura,parasiteOf,Mastomys natalensis,8.66667,1.08333
+Hoplopleura,parasiteOf,Mastomys,8.66667,1.08333
+Hoplopleura,parasiteOf,Arvicanthis niloticus,8.66667,1.08333
+Hoplopleura,parasiteOf,Arvicanthis,8.66667,1.08333
+Hoplopleura,parasiteOf,Praomys,6.5,-9.5
+Hoplopleura,parasiteOf,Praomys,6.5,-9.5
+Hoplopleura,parasiteOf,Praomys delectorum,6.5,-9.5
+Hoplopleura,parasiteOf,Pelomys,6.5,-9.5
+Hoplopleura,parasiteOf,Pelomys,6.5,-9.5
+Hoplopleura,parasiteOf,Pelomys,6.5,-9.5
+Hoplopleura,parasiteOf,Oenomys ornatus,6.5,-9.5
+Hoplopleura,parasiteOf,Oenomys hypoxanthus,6.5,-9.5
+Hoplopleura,parasiteOf,Mastomys natalensis,6.5,-9.5
+Hoplopleura,parasiteOf,Mastomys,6.5,-9.5
+Hoplopleura,parasiteOf,Lemniscomys striatus,6.5,-9.5
+Hoplopleura,parasiteOf,Lemniscomys,6.5,-9.5
+Hoplopleura,parasiteOf,Grammomys,6.5,-9.5
+Hoplopleura,parasiteOf,Dasymys,6.5,-9.5
+Hoplopleura,parasiteOf,Dasymys,6.5,-9.5
+Hoplopleura,parasiteOf,Praomys,-1,15.5
+Hoplopleura,parasiteOf,Praomys,-1,15.5
+Hoplopleura,parasiteOf,Praomys delectorum,-1,15.5
+Hoplopleura,parasiteOf,Pelomys,-1,15.5
+Hoplopleura,parasiteOf,Pelomys,-1,15.5
+Hoplopleura,parasiteOf,Pelomys,-1,15.5
+Hoplopleura,parasiteOf,Oenomys ornatus,-1,15.5
+Hoplopleura,parasiteOf,Oenomys hypoxanthus,-1,15.5
+Hoplopleura,parasiteOf,Myomys albipes,-1,15.5
+Hoplopleura,parasiteOf,Mus,-1,15.5
+Hoplopleura,parasiteOf,Mus musculoides,-1,15.5
+Hoplopleura,parasiteOf,Mastomys natalensis,-1,15.5
+Hoplopleura,parasiteOf,Mastomys,-1,15.5
+Hoplopleura,parasiteOf,Lemniscomys striatus,-1,15.5
+Hoplopleura,parasiteOf,Lemniscomys,-1,15.5
+Hoplopleura,parasiteOf,Grammomys,-1,15.5
+Hoplopleura,parasiteOf,Pelomys,6,12.5
+Hoplopleura,parasiteOf,Pelomys,6,12.5
+Hoplopleura,parasiteOf,Pelomys,6,12.5
+Hoplopleura,parasiteOf,Lemniscomys striatus,6,12.5
+Hoplopleura,parasiteOf,Lemniscomys,6,12.5
+Hoplopleura,parasiteOf,Praomys,7,21
+Hoplopleura,parasiteOf,Praomys,7,21
+Hoplopleura,parasiteOf,Praomys delectorum,7,21
+Hoplopleura,parasiteOf,Pelomys,7,21
+Hoplopleura,parasiteOf,Pelomys,7,21
+Hoplopleura,parasiteOf,Pelomys,7,21
+Hoplopleura,parasiteOf,Oenomys ornatus,7,21
+Hoplopleura,parasiteOf,Oenomys hypoxanthus,7,21
+Hoplopleura,parasiteOf,Myomys albipes,7,21
+Hoplopleura,parasiteOf,Mus,7,21
+Hoplopleura,parasiteOf,Mus musculoides,7,21
+Hoplopleura,parasiteOf,Mastomys natalensis,7,21
+Hoplopleura,parasiteOf,Mastomys,7,21
+Hoplopleura,parasiteOf,Lemniscomys striatus,7,21
+Hoplopleura,parasiteOf,Lemniscomys,7,21
+Hoplopleura,parasiteOf,Hybomys univittatus,7,21
+Hoplopleura,parasiteOf,Grammomys,7,21
+Hoplopleura,parasiteOf,Arvicanthis niloticus,7,21
+Hoplopleura,parasiteOf,Arvicanthis,7,21
+Hoplopleura,parasiteOf,Hybomys univittatus,1.7,10.5
+Schizophthirus aethogliris,parasiteOf,Graphiurus,6.5,-9.5
+Pedicinus,parasiteOf,Procolobus,6.5,-9.5
+Pedicinus,parasiteOf,Colobus,6.5,-9.5
+Pedicinus,parasiteOf,Colobus polykomos,6.5,-9.5
+Pedicinus,parasiteOf,Colobus,6.5,-9.5
+Pedicinus,parasiteOf,Procolobus,6,12.5
+Pedicinus,parasiteOf,Colobus,6,12.5
+Pedicinus,parasiteOf,Colobus polykomos,6,12.5
+Pedicinus,parasiteOf,Colobus,6,12.5
+Pedicinus,parasiteOf,Procolobus,6.5,-9.5
+Pedicinus,parasiteOf,Erythrocebus patas,6.5,-9.5
+Pedicinus,parasiteOf,Chlorocebus aethiops,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus petaurista,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus,6.5,-9.5
+Pedicinus,parasiteOf,Cercopithecus campbelli,6.5,-9.5
+Pedicinus,parasiteOf,Procolobus,-1,15.5
+Pedicinus,parasiteOf,Erythrocebus patas,-1,15.5
+Pedicinus,parasiteOf,Chlorocebus aethiops,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus petaurista,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus,-1,15.5
+Pedicinus,parasiteOf,Cercopithecus campbelli,-1,15.5
+Johnsonpthirus keniae,parasiteOf,Paraxerus,6.5,-9.5
+Johnsonpthirus keniae,parasiteOf,Heliosciurus,6.5,-9.5
+Johnsonpthirus keniae,parasiteOf,Heliosciurus rufobrachium,6.5,-9.5
+Johnsonpthirus keniae,parasiteOf,Heliosciurus gambianus,6.5,-9.5
+Johnsonpthirus keniae,parasiteOf,Funisciurus,6.5,-9.5
+Johnsonpthirus keniae,parasiteOf,Funisciurus anerythrus,6.5,-9.5
+Enderleinellus,parasiteOf,Xerus erythropus,6.5,-9.5
+Enderleinellus,parasiteOf,Protoxerus stangeri,6.5,-9.5
+Enderleinellus,parasiteOf,Protoxerus aubinnii,6.5,-9.5
+Enderleinellus,parasiteOf,Paraxerus,6.5,-9.5
+Enderleinellus,parasiteOf,Heliosciurus undulatus,6.5,-9.5
+Enderleinellus,parasiteOf,Heliosciurus,6.5,-9.5
+Enderleinellus,parasiteOf,Heliosciurus rufobrachium,6.5,-9.5
+Enderleinellus,parasiteOf,Heliosciurus gambianus,6.5,-9.5
+Enderleinellus,parasiteOf,Epixerus ebii,6.5,-9.5
+Lemurphthirus galagus,parasiteOf,Galagoides demidoff,-1,15.5
+Lemurphthirus galagus,parasiteOf,Galago,-1,15.5
+Lemurphthirus galagus,parasiteOf,Galago moholi,-1,15.5
+Lemurphthirus vincenti,parasiteOf,Galagoides demidoff,-1,15.5
+Scipio aulacodi,parasiteOf,Thryonomys,-1,15.5
+Haematopinus bufali,parasiteOf,Syncerus caffer,-1,15.5
+Haematopinus phacochoeri,parasiteOf,Phacochoerus africanus,-1,15.5
+Werneckia minuta,parasiteOf,Paraxerus,-1,15.5
+Werneckia funisciuri,parasiteOf,Funisciurus,-1,15.5
+Kradibia gestroi,parasiteOf,Ficus asperifolia,-1,11.75
+Kradibia gestroi,parasiteOf,Ficus,-1,11.75
+Ceratosolen arabicus,parasiteOf,Ficus,-1,11.75
+Agaon taiense,parasiteOf,Ficus,-1,11.75
+Pedicinus,parasiteOf,Miopithecus talapoin,-1,11.75
+Pedicinus,parasiteOf,Miopithecus talapoin,1.7,10.5
+Sycophaga cyclostigma,parasiteOf,Ficus,6,12.5
+Elisabethiella glumosae,parasiteOf,Ficus,6,12.5
+Courtella michaloudi,parasiteOf,Ficus,6,12.5
+Courtella hladikae,parasiteOf,Ficus artocarpoides,6,12.5
+Courtella hamifera,parasiteOf,Ficus,6,12.5
+Ceratosolen megacephalus,parasiteOf,Ficus vallis-choudae,6,12.5
+Alfonsiella,parasiteOf,Ficus,6,12.5
+Agaon spatulatum,parasiteOf,Ficus,6,12.5
+Linognathus tibialis,parasiteOf,Gazella subgutturosa,6,12.5
+Linognathus tibialis,parasiteOf,Gazella,6,12.5
+Linognathus tibialis,parasiteOf,Gazella granti,6,12.5
+Linognathus tibialis,parasiteOf,Gazella,6,12.5
+Linognathus tibialis,parasiteOf,Gazella dama,6,12.5
+Haematopinus jeannereti,parasiteOf,Taurotragus derbianus,7,21
+Allotriozoon nigeriense,parasiteOf,Ficus,0.33654,6.72732
+Marantochloa,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Marantochloa,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Pentaclethra,hasDispersalVector,Colobus,0.166667,11.583333
+Pentaclethra,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Pentaclethra,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Ongokea gore,hasDispersalVector,Colobus,0.166667,11.583333
+Ongokea gore,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Ongokea gore,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Milicia excelsa,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Milicia excelsa,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Milicia excelsa,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Pentadesma butyracea,hasDispersalVector,Colobus,0.166667,11.583333
+Pentadesma butyracea,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Pentadesma butyracea,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pentadesma butyracea,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Duboscia macrocarpa,hasDispersalVector,Pan troglodytes,0.166667,11.583333
+Duboscia macrocarpa,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Duboscia macrocarpa,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Duboscia macrocarpa,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Detarium,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Detarium,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Detarium,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Detarium,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Xylopia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Xylopia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Xylopia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Xylopia,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Xylopia,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Pycnanthus angolensis,hasDispersalVector,Pan troglodytes,0.166667,11.583333
+Pycnanthus angolensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pycnanthus angolensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pycnanthus angolensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pycnanthus angolensis,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Berlinia,hasDispersalVector,Colobus,0.166667,11.583333
+Berlinia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Berlinia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Berlinia,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Berlinia,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Colobus,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Tetrapleura,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Pan troglodytes,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Elaeis guineensis,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Pan troglodytes,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Pseudospondias,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333
+Ficus,hasDispersalVector,Pan troglodytes,0.166667,11.583333
+Ficus,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Ficus,hasDispersalVector,Gorilla gorilla,0.166667,11.583333
+Ficus,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Ficus,hasDispersalVector,Cercopithecus,0.166667,11.583333
+Ficus,hasDispersalVector,Lophocebus albigena,0.166667,11.583333
+Ficus,hasDispersalVector,Mandrillus sphinx,0.166667,11.583333

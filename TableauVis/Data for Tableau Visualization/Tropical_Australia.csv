@@ -1,0 +1,507 @@
+source_taxon_name,interaction_type,target_taxon_name,latitude,longitude
+Vanessa kershawi,visitsFlowersOf,Lantana camara,-26.95635,152.949944
+Hypocysta irius,visitsFlowersOf,Bidens pilosa,-26.95635,152.949944
+Lampides boeticus,visitsFlowersOf,Fabaceae,-27.092733,153.163147
+Lampides boeticus,visitsFlowersOf,Bidens pilosa,-27.092733,153.163147
+Manorina melanocephala,eats,Grevillea,-28.792889,153.589125
+Trichoglossus chlorolepidotus,eats,Banksia,-28.794008,153.592381
+Trichoglossus chlorolepidotus,eats,Grevillea,-28.821045,153.594468
+Trichoglossus chlorolepidotus,eats,Grevillea,-27.56431,152.827506
+Trichoglossus haematodus,eats,Grevillea,-27.56431,152.827506
+Alectura lathami,eats,Musa acuminata,-17.2859340092,145.6351079724
+Alectura lathami,eats,Mangifera indica,-26.3887176,153.0923297
+Alectura lathami,eats,Malus 脳domestica,-26.838735,152.9610486
+Philemon corniculatus,eats,Myrtaceae,-17.3814460186,145.3867802837
+Pandion haliaetus,eats,Actinopterygii,-28.359343,153.575027
+Boiga irregularis,eats,Miniopterus,-18.227876198,144.5575280617
+Cracticus torquatus,eats,Graphium sarpedon,-26.9263797,152.9403788
+Oecophylla smaragdina,eats,Wrightia laevis,-16.1166667,145.45
+Oecophylla smaragdina,eats,Trichosanthes pentaphylla,-16.1166667,145.45
+Oecophylla smaragdina,eats,Toona,-16.1166667,145.45
+Oecophylla smaragdina,eats,Syzygium cormiflorum,-16.1166667,145.45
+Oecophylla smaragdina,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Oecophylla smaragdina,eats,Smilax australis,-16.1166667,145.45
+Oecophylla smaragdina,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Oecophylla smaragdina,eats,Passiflora,-16.1166667,145.45
+Oecophylla smaragdina,eats,Pachygone,-16.1166667,145.45
+Oecophylla smaragdina,eats,Normanbya normanbyi,-16.1166667,145.45
+Oecophylla smaragdina,eats,Merremia,-16.1166667,145.45
+Oecophylla smaragdina,eats,Macaranga involucrata,-16.1166667,145.45
+Oecophylla smaragdina,eats,Licuala,-16.1166667,145.45
+Oecophylla smaragdina,eats,Jasminum didymum,-16.1166667,145.45
+Oecophylla smaragdina,eats,Flagellaria indica,-16.1166667,145.45
+Oecophylla smaragdina,eats,Entada,-16.1166667,145.45
+Oecophylla smaragdina,eats,Elaeocarpus angustifolius,-16.1166667,145.45
+Oecophylla smaragdina,eats,Dysoxylum papuanum,-16.1166667,145.45
+Oecophylla smaragdina,eats,Cryptocarya,-16.1166667,145.45
+Oecophylla smaragdina,eats,Castanospermum,-16.1166667,145.45
+Oecophylla smaragdina,eats,Cardwellia sublimis,-16.1166667,145.45
+Oecophylla smaragdina,eats,Archontophoenix,-16.1166667,145.45
+Oecophylla smaragdina,eats,Adenia heterophylla,-16.1166667,145.45
+Crematogaster,eats,Wrightia laevis,-16.1166667,145.45
+Crematogaster,eats,Trichosanthes pentaphylla,-16.1166667,145.45
+Crematogaster,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Crematogaster,eats,Smilax australis,-16.1166667,145.45
+Crematogaster,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Crematogaster,eats,Normanbya normanbyi,-16.1166667,145.45
+Crematogaster,eats,Merremia,-16.1166667,145.45
+Crematogaster,eats,Mallotus mollissimus,-16.1166667,145.45
+Crematogaster,eats,Macaranga involucrata,-16.1166667,145.45
+Crematogaster,eats,Jasminum didymum,-16.1166667,145.45
+Crematogaster,eats,Ipomoea indica,-16.1166667,145.45
+Crematogaster,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Crematogaster,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Crematogaster,eats,Glochidion,-16.1166667,145.45
+Crematogaster,eats,Flagellaria indica,-16.1166667,145.45
+Crematogaster,eats,Ficus septica,-16.1166667,145.45
+Crematogaster,eats,Entada,-16.1166667,145.45
+Crematogaster,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Crematogaster,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Crematogaster,eats,Cryptocarya,-16.1166667,145.45
+Crematogaster,eats,Clerodendrum tracyanum,-16.1166667,145.45
+Crematogaster,eats,Castanospermum,-16.1166667,145.45
+Crematogaster,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Crematogaster,eats,Wrightia laevis,-16.1166667,145.45
+Crematogaster,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Crematogaster,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Crematogaster,eats,Passiflora,-16.1166667,145.45
+Crematogaster,eats,Mucuna,-16.1166667,145.45
+Crematogaster,eats,Merremia,-16.1166667,145.45
+Crematogaster,eats,Mallotus paniculatus,-16.1166667,145.45
+Crematogaster,eats,Macaranga,-16.1166667,145.45
+Crematogaster,eats,Macaranga involucrata,-16.1166667,145.45
+Crematogaster,eats,Licuala,-16.1166667,145.45
+Crematogaster,eats,Ipomoea indica,-16.1166667,145.45
+Crematogaster,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Crematogaster,eats,Flagellaria indica,-16.1166667,145.45
+Crematogaster,eats,Cryptocarya,-16.1166667,145.45
+Crematogaster,eats,Cardwellia sublimis,-16.1166667,145.45
+Crematogaster,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Technomyrmex albipes,eats,Urena lobata,-16.1166667,145.45
+Technomyrmex albipes,eats,Merremia,-16.1166667,145.45
+Technomyrmex albipes,eats,Macaranga involucrata,-16.1166667,145.45
+Technomyrmex albipes,eats,Licuala,-16.1166667,145.45
+Technomyrmex albipes,eats,Ipomoea indica,-16.1166667,145.45
+Technomyrmex albipes,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Technomyrmex albipes,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Technomyrmex albipes,eats,Flagellaria indica,-16.1166667,145.45
+Technomyrmex albipes,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Technomyrmex albipes,eats,Cryptocarya,-16.1166667,145.45
+Technomyrmex albipes,eats,Clerodendrum tracyanum,-16.1166667,145.45
+Technomyrmex albipes,eats,Castanospermum,-16.1166667,145.45
+Technomyrmex albipes,eats,Cardwellia sublimis,-16.1166667,145.45
+Technomyrmex albipes,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Syzygium sayeri,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Syzygium gustavioides,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Merremia,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Macaranga involucrata,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Licuala,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Glochidion,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Flagellaria indica,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Entada,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Embelia caulialata,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Elaeocarpus angustifolius,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Castanospermum,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Cardwellia sublimis,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Anonychomyrma gilberti,eats,Adenia heterophylla,-16.1166667,145.45
+Camponotus,eats,Syzygium sayeri,-16.1166667,145.45
+Camponotus,eats,Merremia,-16.1166667,145.45
+Camponotus,eats,Mallotus mollissimus,-16.1166667,145.45
+Camponotus,eats,Macaranga,-16.1166667,145.45
+Camponotus,eats,Macaranga involucrata,-16.1166667,145.45
+Camponotus,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Camponotus,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Camponotus,eats,Glochidion,-16.1166667,145.45
+Camponotus,eats,Flagellaria indica,-16.1166667,145.45
+Camponotus,eats,Entada,-16.1166667,145.45
+Camponotus,eats,Cryptocarya,-16.1166667,145.45
+Camponotus,eats,Clerodendrum tracyanum,-16.1166667,145.45
+Camponotus,eats,Castanospermum,-16.1166667,145.45
+Polyrhachis,eats,Syzygium sayeri,-16.1166667,145.45
+Polyrhachis,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Polyrhachis,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Polyrhachis,eats,Normanbya normanbyi,-16.1166667,145.45
+Polyrhachis,eats,Merremia,-16.1166667,145.45
+Polyrhachis,eats,Macaranga involucrata,-16.1166667,145.45
+Polyrhachis,eats,Licuala,-16.1166667,145.45
+Polyrhachis,eats,Ipomoea indica,-16.1166667,145.45
+Polyrhachis,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Polyrhachis,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Polyrhachis,eats,Glochidion,-16.1166667,145.45
+Polyrhachis,eats,Flagellaria indica,-16.1166667,145.45
+Polyrhachis,eats,Entada,-16.1166667,145.45
+Polyrhachis,eats,Elaeocarpus angustifolius,-16.1166667,145.45
+Polyrhachis,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Polyrhachis,eats,Cryptocarya,-16.1166667,145.45
+Polyrhachis,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Polyrhachis,eats,Syzygium gustavioides,-16.1166667,145.45
+Polyrhachis,eats,Stephania japonica,-16.1166667,145.45
+Polyrhachis,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Polyrhachis,eats,Normanbya normanbyi,-16.1166667,145.45
+Polyrhachis,eats,Merremia,-16.1166667,145.45
+Polyrhachis,eats,Macaranga involucrata,-16.1166667,145.45
+Polyrhachis,eats,Licuala,-16.1166667,145.45
+Polyrhachis,eats,Jasminum didymum,-16.1166667,145.45
+Polyrhachis,eats,Ipomoea indica,-16.1166667,145.45
+Polyrhachis,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Polyrhachis,eats,Glochidion,-16.1166667,145.45
+Polyrhachis,eats,Flagellaria indica,-16.1166667,145.45
+Polyrhachis,eats,Entada,-16.1166667,145.45
+Polyrhachis,eats,Cryptocarya,-16.1166667,145.45
+Polyrhachis,eats,Archontophoenix,-16.1166667,145.45
+Monomorium,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Monomorium,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Monomorium,eats,Merremia,-16.1166667,145.45
+Monomorium,eats,Macaranga involucrata,-16.1166667,145.45
+Monomorium,eats,Ipomoea indica,-16.1166667,145.45
+Monomorium,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Monomorium,eats,Flagellaria indica,-16.1166667,145.45
+Monomorium,eats,Entada,-16.1166667,145.45
+Monomorium,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Monomorium,eats,Dysoxylum mollissimum molle,-16.1166667,145.45
+Monomorium,eats,Cryptocarya,-16.1166667,145.45
+Monomorium,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Monomorium,eats,Adenia heterophylla,-16.1166667,145.45
+Pheidole impressiceps,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Pheidole impressiceps,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Pheidole impressiceps,eats,Flagellaria indica,-16.1166667,145.45
+Crematogaster,eats,Syzygium erythrocalyx,-16.1166667,145.45
+Crematogaster,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Crematogaster,eats,Flagellaria indica,-16.1166667,145.45
+Crematogaster,eats,Entada,-16.1166667,145.45
+Paratrechina,eats,Rockinghamia angustifolia,-16.1166667,145.45
+Paratrechina,eats,Merremia,-16.1166667,145.45
+Paratrechina,eats,Ipomoea indica,-16.1166667,145.45
+Paratrechina,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Paratrechina,eats,Flagellaria indica,-16.1166667,145.45
+Echinopla australis,eats,Passiflora,-16.1166667,145.45
+Echinopla australis,eats,Flagellaria indica,-16.1166667,145.45
+Polyrhachis,eats,Pachygone,-16.1166667,145.45
+Polyrhachis,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Normanbya normanbyi,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Merremia,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Licuala,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Flagellaria indica,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Cryptocarya,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Cardwellia sublimis,-16.1166667,145.45
+Leptomyrmex unicolor,eats,Archontophoenix,-16.1166667,145.45
+Turneria bidentata,eats,Neosepicaea jucunda,-16.1166667,145.45
+Turneria bidentata,eats,Merremia,-16.1166667,145.45
+Turneria bidentata,eats,Macaranga involucrata,-16.1166667,145.45
+Turneria bidentata,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Turneria bidentata,eats,Cryptocarya,-16.1166667,145.45
+Turneria bidentata,eats,Castanospermum,-16.1166667,145.45
+Pheidole platypus,eats,Mucuna,-16.1166667,145.45
+Pheidole platypus,eats,Merremia,-16.1166667,145.45
+Pheidole platypus,eats,Mallotus mollissimus,-16.1166667,145.45
+Pheidole platypus,eats,Macaranga involucrata,-16.1166667,145.45
+Pheidole platypus,eats,Ipomoea indica,-16.1166667,145.45
+Pheidole platypus,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Pheidole platypus,eats,Flagellaria indica,-16.1166667,145.45
+Pheidole platypus,eats,Ficus septica,-16.1166667,145.45
+Pheidole platypus,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Pheidole platypus,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Paratrechina,eats,Mucuna,-16.1166667,145.45
+Paratrechina,eats,Merremia,-16.1166667,145.45
+Paratrechina,eats,Mallotus mollissimus,-16.1166667,145.45
+Paratrechina,eats,Macaranga involucrata,-16.1166667,145.45
+Paratrechina,eats,Ipomoea indica,-16.1166667,145.45
+Paratrechina,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Paratrechina,eats,Flagellaria indica,-16.1166667,145.45
+Paratrechina,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Paratrechina,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Paratrechina,eats,Crotalaria,-16.1166667,145.45
+Paratrechina,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Paratrechina,eats,Aleurites rockinghamensis,-16.1166667,145.45
+Monomorium,eats,Merremia,-16.1166667,145.45
+Monomorium,eats,Macaranga involucrata,-16.1166667,145.45
+Tetraponera nitida,eats,Merremia,-16.1166667,145.45
+Tetraponera nitida,eats,Macaranga involucrata,-16.1166667,145.45
+Tetraponera nitida,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Tetraponera nitida,eats,Entada,-16.1166667,145.45
+Tetraponera nitida,eats,Cryptocarya,-16.1166667,145.45
+Rhytidoponera spoliata,eats,Merremia,-16.1166667,145.45
+Rhytidoponera spoliata,eats,Entada,-16.1166667,145.45
+Monomorium,eats,Merremia,-16.1166667,145.45
+Monomorium,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Monomorium,eats,Evodia,-16.1166667,145.45
+Tetramorium validiusculum,eats,Merremia,-16.1166667,145.45
+Tetramorium validiusculum,eats,Macaranga involucrata,-16.1166667,145.45
+Tetramorium validiusculum,eats,Ipomoea indica,-16.1166667,145.45
+Tetramorium validiusculum,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Tetramorium validiusculum,eats,Flagellaria indica,-16.1166667,145.45
+Tetramorium validiusculum,eats,Entada,-16.1166667,145.45
+Tetramorium validiusculum,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Tetramorium validiusculum,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Merremia,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Macaranga involucrata,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Ipomoea indica,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Flagellaria indica,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Entada,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Tapinoma melanocephalum,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Polyrhachis,eats,Merremia,-16.1166667,145.45
+Polyrhachis,eats,Ipomoea indica,-16.1166667,145.45
+Polyrhachis,eats,Ichnocarpus frutescens,-16.1166667,145.45
+Polyrhachis,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Polyrhachis,eats,Flagellaria indica,-16.1166667,145.45
+Polyrhachis,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Polyrhachis,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Merremia,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Macaranga,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Macaranga involucrata,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Ipomoea indica,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Flagellaria indica,-16.1166667,145.45
+Rhoptromyrmex wroughtonii,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Tapinoma minutum,eats,Merremia,-16.1166667,145.45
+Tapinoma minutum,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Tapinoma minutum,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Pheidole,eats,Merremia,-16.1166667,145.45
+Pheidole,eats,Macaranga involucrata,-16.1166667,145.45
+Pheidole,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Pheidole,eats,Flagellaria indica,-16.1166667,145.45
+Polyrhachis,eats,Mallotus mollissimus,-16.1166667,145.45
+Polyrhachis,eats,Castanospermum,-16.1166667,145.45
+Tetramorium insolens,eats,Macaranga involucrata,-16.1166667,145.45
+Tetramorium insolens,eats,Ipomoea indica,-16.1166667,145.45
+Tetramorium insolens,eats,Entada,-16.1166667,145.45
+Strumigenys guttulata,eats,Macaranga involucrata,-16.1166667,145.45
+Odontomachus cephalotes,eats,Macaranga involucrata,-16.1166667,145.45
+Camponotus,eats,Macaranga involucrata,-16.1166667,145.45
+Camponotus,eats,Ipomoea indica,-16.1166667,145.45
+Camponotus,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Camponotus,eats,Flagellaria indica,-16.1166667,145.45
+Camponotus,eats,Evodia,-16.1166667,145.45
+Camponotus,eats,Endospermum myrmecophilum,-16.1166667,145.45
+Camponotus,eats,Dysoxylum pettigrewianum,-16.1166667,145.45
+Camponotus,eats,Clerodendrum tracyanum,-16.1166667,145.45
+Camponotus,eats,Ardisia pachyrrhachis,-16.1166667,145.45
+Polyrhachis,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Polyrhachis,eats,Castanospermum,-16.1166667,145.45
+Polyrhachis,eats,Homalanthus novoguineensis,-16.1166667,145.45
+Podomyrma,eats,Cryptocarya,-16.1166667,145.45
+Notothixos,parasiteOf,Melaleuca,-20,145
+Oncicola,parasiteOf,Tumix velox,-20,145
+Oncicola,parasiteOf,Pomatostomus halli,-20,145
+Oncicola,parasiteOf,Poephila cincta,-20,145
+Oncicola,parasiteOf,Nycticorax caledonicus,-20,145
+Oncicola,parasiteOf,Microeca fascinans,-20,145
+Oncicola,parasiteOf,Pomatostomus superciliosus,-20,145
+Oncicola,parasiteOf,Pomatostomus temporalis,-20,145
+Oncicola,parasiteOf,Artamus cinereus,-20,145
+Oncicola,parasiteOf,Zoothera,-20,145
+Centrorhynchus,parasiteOf,Todiramphus,-20,145
+Centrorhynchus,parasiteOf,Ninox strenua,-20,145
+Centrorhynchus,parasiteOf,Dacelo,-20,145
+Centrorhynchus,parasiteOf,Egretta,-20,145
+Centrorhynchus,parasiteOf,Ninox boobook,-20,145
+Centrorhynchus,parasiteOf,Aviceda subcristata,-20,145
+Centrorhynchus,parasiteOf,Falco cenchroides,-20,145
+Centrorhynchus,parasiteOf,Falco berigora,-20,145
+Centrorhynchus,parasiteOf,Accipiter novaehollandiae,-20,145
+Centrorhynchus,parasiteOf,Accipiter cirrocephalus,-20,145
+Centrorhynchus,parasiteOf,Circus approximans,-20,145
+Centrorhynchus,parasiteOf,Dacelo novaeguineae,-20,145
+Arhythmorhynchus,parasiteOf,Numerous madagascarensis,-20,145
+Arhythmorhynchus,parasiteOf,Limosa lapponica,-20,145
+Moniliformis semoni,parasiteOf,Perameles nasuta,-20,145
+Moniliformis semoni,parasiteOf,Isoodon macrourus,-20,145
+Moniliformis semoni,parasiteOf,Isoodon obesulus,-20,145
+Moniliformis semoni,parasiteOf,Peramelidae,-20,145
+Mediorhynchus,parasiteOf,Alectura lathami,-20,145
+Mediorhynchus,parasiteOf,Isoodon macrourus,-20,145
+Mediorhynchus,parasiteOf,Corcorax melanorhamphos,-20,145
+Mediorhynchus,parasiteOf,Grallina cyanoleuca,-20,145
+Porrorchis hylae,parasiteOf,Burhinus grallarius,-20,145
+Porrorchis hylae,parasiteOf,Podargus strigoides,-20,145
+Porrorchis hylae,parasiteOf,Centropus phasianinus,-20,145
+Arhythmorhynchus brevis,parasiteOf,Botaurus poiciloptilus,-20,145
+Plagiorhynchus,parasiteOf,Ptiloris victoriae,-20,145
+Plagiorhynchus,parasiteOf,Centropus phasianinus,-20,145
+Porrorchis hydromuris,parasiteOf,Hydromys chrysogaster,-20,145
+Corynosoma,parasiteOf,Hydromys chrysogaster,-20,145
+Porrorchis,parasiteOf,Felis catus,-20,145
+Moniliformis moniliformis,parasiteOf,Rattus,-20,145
+Moniliformis moniliformis,parasiteOf,Rattus norvegicus,-20,145
+Moniliformis moniliformis,parasiteOf,Rattus,-20,145
+Macracanthorhynchus hirudinaceus,parasiteOf,Sus scrofa,-20,145
+Hoplopleura,parasiteOf,Rattus,-20,145
+Hoplopleura,parasiteOf,Rattus fuscipes,-20,145
+Hoplopleura,parasiteOf,Uromys caudimaculatus,-20,145
+Hoplopleura,parasiteOf,Rattus,-20,145
+Dendrophthoe,parasiteOf,Acacia holosericea,-19.352,146.63223
+Amylotheca,parasiteOf,Rhodamnia,-19.352,146.63223
+Pterastericola vivipara,parasiteOf,Acanthaster planci,-17.98722,146.76979
+Stilifer inflatus,parasiteOf,Linckia laevigata,-17.98722,146.76979
+Peasistilifer edulis,parasiteOf,Holothuria,-17.98722,146.76979
+Echineulima ponderi,parasiteOf,Parasalenia gratiosa,-17.98722,146.76979
+Stilifer utinomi,parasiteOf,Linckia laevigata,-17.98722,146.76979
+Stilifer utinomi,parasiteOf,Linckia guildingi,-17.98722,146.76979
+Asterolamia hians,parasiteOf,Astropecten indicus,-17.98722,146.76979
+Thyca crystallina,parasiteOf,Chiridota laevis,-17.98722,146.76979
+Thyca crystallina,parasiteOf,Linckia laevigata,-17.98722,146.76979
+Stilifer linckiae,parasiteOf,Chiridota laevis,-17.98722,146.76979
+Parvioris equestris,parasiteOf,Stellaster equestris,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Holothuria impatiens,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Actinopyga echinites,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Holothuria leucospilota,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Holothuria,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Bohadschia argus,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Holothuria,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Actinopyga miliaris,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Stichopus chloronotus,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Thelenota ananas,-17.98722,146.76979
+Paranotothrix queenslandicus,parasiteOf,Stichopus horrens,-17.98722,146.76979
+Cleistogamia pyriformis,parasiteOf,Holothuria impatiens,-17.98722,146.76979
+Cleistogamia pulchra,parasiteOf,Actinopyga echinites,-17.98722,146.76979
+Cleistogamia pulchra,parasiteOf,Actinopyga lecanora,-17.98722,146.76979
+Cleistogamia pulchra,parasiteOf,Actinopyga miliaris,-17.98722,146.76979
+Paramegadenus scutellicola,parasiteOf,Stellaster equestris,-17.98722,146.76979
+Wahlia stichopi,parasiteOf,Stichopus chloronotus,-17.98722,146.76979
+Wahlia stichopi,parasiteOf,Thelenota ananas,-17.98722,146.76979
+Wahlia stichopi,parasiteOf,Stichopus horrens,-17.98722,146.76979
+Cleistogamia pallii,parasiteOf,Bohadschia argus,-17.98722,146.76979
+Cleistogamia longicirrus,parasiteOf,Stichopus chloronotus,-17.98722,146.76979
+Cleistogamia longicirrus,parasiteOf,Stichopus horrens,-17.98722,146.76979
+Cleistogamia heronensis,parasiteOf,Holothuria leucospilota,-17.98722,146.76979
+Cleistogamia heronensis,parasiteOf,Holothuria,-17.98722,146.76979
+Prostilifer subpellucida,parasiteOf,Bohadschia argus,-14.6,145.61667
+Prostilifer subpellucida,parasiteOf,Holothuria,-14.6,145.61667
+Symplocos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Symplocos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Strychnos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Solanum,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Solanum torvum,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Rauwenhoffia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Krukoviella,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Krukoviella,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Planchonella obovata,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Pilidiostigma tropicum,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Morinda,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Melia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Litsea,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Litsea,hasDispersalVector,Columba leucomela,-17.85,146.083333
+Litsea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Litsea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Litsea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Lantana camara,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Hypaerpa decumbens,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Homalanthus populifolius,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Hibbertia scandens,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Helicia nortoniana,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Gmelina,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ganophyllum,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Freycinetia,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Evodia,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Embelia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Dysoxylum,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Dysoxylum,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Dysoxylum,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Dendrophthoe falcata,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Clerodendrum,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Canthium,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cananga odorata,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Calamus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Breynia stipitata,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Alphitonia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Steganthera laxiflora,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Steganthera laxiflora,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Terminalia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Terminalia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Piper,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Piper,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Hakea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Hakea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Gomphandra australiana,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Gomphandra australiana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Glochidion,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Glochidion,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Fistulariidae,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Fistulariidae,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Eugenia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Eugenia,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus grandis,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Elaeocarpus grandis,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Citronella,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Citronella,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cissus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cissus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cinnamomun laubatii,hasDispersalVector,Columba leucomela,-17.85,146.083333
+Cinnamomun laubatii,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Antirhea tenuiflora,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Antirhea tenuiflora,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Aceratium,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Aceratium,hasDispersalVector,Ptilinopus,-17.85,146.083333
+pothos,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+pothos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+pothos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Notothixos,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Notothixos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Notothixos,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Myristica,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Myristica,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Myristica,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Litsea bindoniana,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Litsea bindoniana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Litsea bindoniana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias australiana,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Polyscias australiana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias australiana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Endiandra,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Endiandra,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Endiandra,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cryptocarya,hasDispersalVector,Columba leucomela,-17.85,146.083333
+Cryptocarya,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cryptocarya,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cryptocarya,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Cryptocarya mackinnoniana,hasDispersalVector,Lopholaimus antarcticus,-17.85,146.083333
+Cryptocarya mackinnoniana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cryptocarya mackinnoniana,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cissus hypoglauca,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Cissus hypoglauca,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Cissus hypoglauca,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Canarium,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Canarium,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Canarium,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Archontophoenix,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Archontophoenix,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Archontophoenix,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias murrayi,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias murrayi,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Polyscias murrayi,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias murrayi,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias elegans,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias elegans,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Polyscias elegans,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Polyscias elegans,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Chionanthus ramiflorus,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Chionanthus ramiflorus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Chionanthus ramiflorus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Chionanthus ramiflorus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ducula bicolor spilorrhoa,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Ficus,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Neolitsea,hasDispersalVector,Columba leucomela,-17.85,146.083333
+Neolitsea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Neolitsea,hasDispersalVector,Macropygia amboinensis,-17.85,146.083333
+Neolitsea,hasDispersalVector,Ptilinopus,-17.85,146.083333
+Neolitsea,hasDispersalVector,Ptilinopus,-17.85,146.083333

@@ -1,0 +1,816 @@
+source_taxon_name,interaction_type,target_taxon_name,latitude,longitude
+Sphecidae,visitsFlowersOf,Thelesperma megapotamicum,-42.74852,-72.61002
+Thysanoptera,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Anthidium,visitsFlowersOf,Phacelia heterophylla,-42.74852,-72.61002
+Hypodynerus,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Hypodynerus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Megachile,visitsFlowersOf,Eriosyce,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Oxalidaceae,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Mimulus,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Lecanophora heterophylla,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Lathyrus,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Adesmia retrofracta,-42.74852,-72.61002
+Megachile,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Megachile,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Calliphoridae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Alloscirtetica,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Thyridanthrax,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Bombus,visitsFlowersOf,Vicia nigricans,-40,-67
+Bombus,visitsFlowersOf,Tristerix corymbosus,-40,-67
+Bombus,visitsFlowersOf,Schinus patagonicus,-40,-67
+Bombus,visitsFlowersOf,Rosa eglanteria,-40,-67
+Bombus,visitsFlowersOf,Mutisia decurrens,-40,-67
+Bombus,visitsFlowersOf,Digitalis purpurea,-40,-67
+Bombus,visitsFlowersOf,Calceolaria crenatiflora,-40,-67
+Bombus,visitsFlowersOf,Berberis,-40,-67
+Bombus,visitsFlowersOf,Berberis,-40,-67
+Bombus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Bombus,visitsFlowersOf,Vicia nigricans,-41,-71.5
+Bombus,visitsFlowersOf,Tristerix corymbosus,-41,-71.5
+Bombus,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Bombus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Bombus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Bombus,visitsFlowersOf,Calceolaria crenatiflora,-41,-71.5
+Bombus,visitsFlowersOf,Berberis,-41,-71.5
+Bombus,visitsFlowersOf,Berberis,-41,-71.5
+Bombus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Bombus,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Diphaglossa gayi,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Apis mellifera,visitsFlowersOf,Rosa rubiginosa,-42.74852,-72.61002
+Apis mellifera,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Corynura,visitsFlowersOf,Rosa eglanteria,-40,-67
+Corynura,visitsFlowersOf,Digitalis purpurea,-40,-67
+Corynura,visitsFlowersOf,Aristotelia chilensis,-40,-67
+Corynura,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Corynura,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Corynura,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Corynura,visitsFlowersOf,Aristotelia chilensis,-41,-71.5
+Corynura,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Caenohalictus,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Caenohalictus,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Caenohalictus,visitsFlowersOf,Mutisia decurrens,-40,-67
+Caenohalictus,visitsFlowersOf,Berberis,-40,-67
+Caenohalictus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Caenohalictus,visitsFlowersOf,Gavilea odoratissima,-41,-71.5
+Caenohalictus,visitsFlowersOf,Berberis,-41,-71.5
+Caenohalictus,visitsFlowersOf,Berberis,-41,-71.5
+Caenohalictus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Eristalis,visitsFlowersOf,Rapistrum rugosum,-42.74852,-72.61002
+Allograpta,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Allograpta,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Allograpta,visitsFlowersOf,Ribes magellanicum,-41,-71.5
+Allograpta,visitsFlowersOf,Calceolaria crenatiflora,-41,-71.5
+Allograpta,visitsFlowersOf,Berberis,-41,-71.5
+Allograpta,visitsFlowersOf,Berberis,-41,-71.5
+Allograpta,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Eristalis,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Syrphus,visitsFlowersOf,Schinus patagonicus,-40,-67
+Syrphus,visitsFlowersOf,Rosa eglanteria,-40,-67
+Syrphus,visitsFlowersOf,Berberis,-40,-67
+Syrphus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Syrphus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Syrphus,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Syrphus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Syrphus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Syrphus,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Syrphus,visitsFlowersOf,Berberis,-41,-71.5
+Vespula germanica,visitsFlowersOf,Rosa eglanteria,-40,-67
+Vespula germanica,visitsFlowersOf,Mutisia decurrens,-40,-67
+Vespula germanica,visitsFlowersOf,Digitalis purpurea,-40,-67
+Vespula germanica,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Vespula germanica,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Vespula germanica,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Vespula germanica,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Vespula germanica,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Vespula germanica,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Sephanoides,visitsFlowersOf,Tristerix corymbosus,-41,-71.5
+Sephanoides,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Sephanoides,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Manuelia,visitsFlowersOf,Tristerix corymbosus,-40,-67
+Manuelia,visitsFlowersOf,Schinus patagonicus,-40,-67
+Manuelia,visitsFlowersOf,Calceolaria crenatiflora,-40,-67
+Manuelia,visitsFlowersOf,Berberis,-40,-67
+Manuelia,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Manuelia,visitsFlowersOf,Tristerix corymbosus,-41,-71.5
+Manuelia,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Manuelia,visitsFlowersOf,Gavilea odoratissima,-41,-71.5
+Manuelia,visitsFlowersOf,Berberis,-41,-71.5
+Manuelia,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Chalepogenus caeruleus,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Chalepogenus caeruleus,visitsFlowersOf,Calceolaria crenatiflora,-40,-67
+Chalepogenus caeruleus,visitsFlowersOf,Calceolaria crenatiflora,-41,-71.5
+Evylaeus,visitsFlowersOf,Mutisia decurrens,-40,-67
+Evylaeus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Evylaeus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Evylaeus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Ocyptamus melanorrhinus,visitsFlowersOf,Rosa eglanteria,-40,-67
+Ocyptamus melanorrhinus,visitsFlowersOf,Mutisia decurrens,-40,-67
+Ocyptamus melanorrhinus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Ocyptamus melanorrhinus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Ocyptamus melanorrhinus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Ocyptamus melanorrhinus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Sapromyza,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Sapromyza,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Sapromyza,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Heterosarus,visitsFlowersOf,Mutisia decurrens,-40,-67
+Heterosarus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Heterosarus,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Heterosarus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Phthiria,visitsFlowersOf,Rosa eglanteria,-40,-67
+Phthiria,visitsFlowersOf,Mutisia decurrens,-40,-67
+Phthiria,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Phthiria,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Phthiria,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Phthiria,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Anthaxia,visitsFlowersOf,Mutisia decurrens,-40,-67
+Anthaxia,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Anthaxia,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Anthaxia,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Manuelia,visitsFlowersOf,Mutisia decurrens,-40,-67
+Manuelia,visitsFlowersOf,Berberis,-40,-67
+Manuelia,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Manuelia,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Manuelia,visitsFlowersOf,Berberis,-41,-71.5
+Manuelia,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Colletes seminitidus,visitsFlowersOf,Ribes magellanicum,-40,-67
+Colletes seminitidus,visitsFlowersOf,Diplolepis diemii,-40,-67
+Colletes seminitidus,visitsFlowersOf,Berberis,-40,-67
+Colletes seminitidus,visitsFlowersOf,Berberis,-40,-67
+Colletes seminitidus,visitsFlowersOf,Ribes magellanicum,-41,-71.5
+Colletes seminitidus,visitsFlowersOf,Diplolepis diemii,-41,-71.5
+Colletes seminitidus,visitsFlowersOf,Berberis,-41,-71.5
+Colletes seminitidus,visitsFlowersOf,Berberis,-41,-71.5
+Trichophthalma,visitsFlowersOf,Schinus patagonicus,-40,-67
+Trichophthalma,visitsFlowersOf,Ribes magellanicum,-40,-67
+Trichophthalma,visitsFlowersOf,Berberis,-40,-67
+Trichophthalma,visitsFlowersOf,Berberis,-40,-67
+Trichophthalma,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Trichophthalma,visitsFlowersOf,Ribes magellanicum,-41,-71.5
+Trichophthalma,visitsFlowersOf,Berberis,-41,-71.5
+Trichophthalma,visitsFlowersOf,Berberis,-41,-71.5
+Bombus,visitsFlowersOf,Vicia nigricans,-40,-67
+Bombus,visitsFlowersOf,Digitalis purpurea,-40,-67
+Bombus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Bombus,visitsFlowersOf,Vicia nigricans,-41,-71.5
+Bombus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Bombus,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Ruizantheda,visitsFlowersOf,Schinus patagonicus,-40,-67
+Ruizantheda,visitsFlowersOf,Rosa eglanteria,-40,-67
+Ruizantheda,visitsFlowersOf,Digitalis purpurea,-40,-67
+Ruizantheda,visitsFlowersOf,Berberis,-40,-67
+Ruizantheda,visitsFlowersOf,Aristotelia chilensis,-40,-67
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Ruizantheda,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Ruizantheda,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Ruizantheda,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Ruizantheda,visitsFlowersOf,Berberis,-41,-71.5
+Ruizantheda,visitsFlowersOf,Aristotelia chilensis,-41,-71.5
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Allograpta,visitsFlowersOf,Rosa eglanteria,-40,-67
+Allograpta,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Allograpta,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Platycheirus,visitsFlowersOf,Rosa eglanteria,-40,-67
+Platycheirus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Platycheirus,visitsFlowersOf,Berberis,-41,-71.5
+Ruizantheda,visitsFlowersOf,Rosa eglanteria,-40,-67
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Ruizantheda,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Platycheirus,visitsFlowersOf,Schinus patagonicus,-40,-67
+Platycheirus,visitsFlowersOf,Rosa eglanteria,-40,-67
+Platycheirus,visitsFlowersOf,Berberis,-40,-67
+Platycheirus,visitsFlowersOf,Aristotelia chilensis,-40,-67
+Platycheirus,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Platycheirus,visitsFlowersOf,Vicia nigricans,-41,-71.5
+Platycheirus,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Platycheirus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Platycheirus,visitsFlowersOf,Digitalis purpurea,-41,-71.5
+Platycheirus,visitsFlowersOf,Diplolepis diemii,-41,-71.5
+Platycheirus,visitsFlowersOf,Calceolaria crenatiflora,-41,-71.5
+Platycheirus,visitsFlowersOf,Berberis,-41,-71.5
+Platycheirus,visitsFlowersOf,Aristotelia chilensis,-41,-71.5
+Platycheirus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Trichophthalma,visitsFlowersOf,Rosa eglanteria,-40,-67
+Trichophthalma,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Trichophthalma,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Trichophthalma,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Scaeva,visitsFlowersOf,Senecio subulatus,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Rapistrum rugosum,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Hysterionica jasionoides,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Scaeva,visitsFlowersOf,Schinus patagonicus,-40,-67
+Scaeva,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Camponotus,visitsFlowersOf,Schinus patagonicus,-40,-67
+Camponotus,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Camponotus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Policana albopilosa,visitsFlowersOf,Schinus patagonicus,-40,-67
+Policana albopilosa,visitsFlowersOf,Aristotelia chilensis,-40,-67
+Policana albopilosa,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Policana albopilosa,visitsFlowersOf,Aristotelia chilensis,-41,-71.5
+Chilicola,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Chilicola,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Ruizantheda,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Svastrides melanura,visitsFlowersOf,Alstroemeria aurea,-40,-67
+Svastrides melanura,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Sphecidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Sphecidae,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Thelesperma megapotamicum,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Senecio subulatus,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Senecio filaginoides,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Rosa rubiginosa,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Rapistrum rugosum,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Larrea divaricata,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Hysterionica jasionoides,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Copestylum,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Callonychium mandibulare,visitsFlowersOf,Thelesperma megapotamicum,-42.74852,-72.61002
+Callonychium mandibulare,visitsFlowersOf,Hysterionica jasionoides,-42.74852,-72.61002
+Callonychium mandibulare,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Tachinidae,visitsFlowersOf,Senecio subulatus,-42.74852,-72.61002
+Tachinidae,visitsFlowersOf,Rosa rubiginosa,-42.74852,-72.61002
+Tachinidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Tachinidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Sarcophagidae,visitsFlowersOf,Senecio subulatus,-42.74852,-72.61002
+Sarcophagidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Sarcophagidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Sarcophagidae,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Ammophila,visitsFlowersOf,Senecio subulatus,-42.74852,-72.61002
+Eumenidae,visitsFlowersOf,Senecio filaginoides,-42.74852,-72.61002
+Toxomerus,visitsFlowersOf,Rosa rubiginosa,-42.74852,-72.61002
+Toxomerus,visitsFlowersOf,Schinus patagonicus,-41,-71.5
+Toxomerus,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Toxomerus,visitsFlowersOf,Ribes magellanicum,-41,-71.5
+Toxomerus,visitsFlowersOf,Calceolaria crenatiflora,-41,-71.5
+Toxomerus,visitsFlowersOf,Berberis,-41,-71.5
+Toxomerus,visitsFlowersOf,Berberis,-41,-71.5
+Toxomerus,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Buprestidae,visitsFlowersOf,Rosa rubiginosa,-42.74852,-72.61002
+Buprestidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Psaenythia rufipes,visitsFlowersOf,Eriosyce,-42.74852,-72.61002
+Psaenythia rufipes,visitsFlowersOf,Tunilla corrugata,-42.74852,-72.61002
+Psaenythia rufipes,visitsFlowersOf,Hysterionica jasionoides,-42.74852,-72.61002
+Psaenythia rufipes,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Arhysosage bifasciata,visitsFlowersOf,Eriosyce,-42.74852,-72.61002
+Arhysosage bifasciata,visitsFlowersOf,Tunilla corrugata,-42.74852,-72.61002
+Colletes,visitsFlowersOf,Polygala hongkongensis stenophylla,-42.74852,-72.61002
+Colletes,visitsFlowersOf,Larrea divaricata,-42.74852,-72.61002
+Centris,visitsFlowersOf,Oxalidaceae,-42.74852,-72.61002
+Centris,visitsFlowersOf,Lathyrus,-42.74852,-72.61002
+Centris,visitsFlowersOf,Larrea divaricata,-42.74852,-72.61002
+Dialictus,visitsFlowersOf,Tunilla corrugata,-42.74852,-72.61002
+Dialictus,visitsFlowersOf,Lathyrus,-42.74852,-72.61002
+Dialictus,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Dialictus,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Sappho,visitsFlowersOf,Oenothera mendocinensis,-42.74852,-72.61002
+Sappho,visitsFlowersOf,Mutisia decurrens,-42.74852,-72.61002
+Svastrides zebra,visitsFlowersOf,Larrea divaricata,-42.74852,-72.61002
+Svastrides zebra,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Epicauta,visitsFlowersOf,Larrea divaricata,-42.74852,-72.61002
+Cynthia cardui,visitsFlowersOf,Junellia toninii,-42.74852,-72.61002
+Cynthia cardui,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Cynthia cardui,visitsFlowersOf,Arjona ruscifolia,-42.74852,-72.61002
+Tatochila,visitsFlowersOf,Junellia toninii,-42.74852,-72.61002
+Tatochila,visitsFlowersOf,Arjona ruscifolia,-42.74852,-72.61002
+Hemiptera,visitsFlowersOf,Hysterionica jasionoides,-42.74852,-72.61002
+Hemiptera,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Tephritidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Muscidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Muscidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Muscidae,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Mordellidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Mordellidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Eriopisa,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Empididae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Diadasia patagonica,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Curculionidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Compsomyiops fulvicrura,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Compsomyiops fulvicrura,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Coccinelidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Coccinelidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Entypus,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Carposcalis punctulata,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Carposcalis punctulata,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Carposcalis punctulata,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Cantharidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Bibionidae,visitsFlowersOf,Grindelia chiloensis,-42.74852,-72.61002
+Bibionidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Syrphidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Syrphidae,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Ocyptamus meridionalis,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Geometridae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Ephydridae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Microcerella,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Carposcalis saltana,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Augochloropsis,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Anthomyiidae,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Alipumilio,visitsFlowersOf,Discaria,-42.74852,-72.61002
+Prionyx,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Oxybelus,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Notiphila,visitsFlowersOf,Baccharis angustifolia,-42.74852,-72.61002
+Minettia semifulva,visitsFlowersOf,Rosa eglanteria,-41,-71.5
+Minettia semifulva,visitsFlowersOf,Mutisia decurrens,-41,-71.5
+Minettia semifulva,visitsFlowersOf,Alstroemeria aurea,-41,-71.5
+Falco sparverius,eats,Scorpiones,-37.95453,-72.43438
+Falco sparverius,eats,Coleoptera,-37.95453,-72.43438
+Falco sparverius,eats,Antandrus,-37.95453,-72.43438
+Falco sparverius,eats,Lepidoptera,-37.95453,-72.43438
+Falco sparverius,eats,Hymenoptera,-37.95453,-72.43438
+Falco sparverius,eats,Liolaemus,-37.95453,-72.43438
+Falco sparverius,eats,Carabidae,-37.95453,-72.43438
+Falco sparverius,eats,Diptera,-37.95453,-72.43438
+Falco sparverius,eats,Arachnida,-37.95453,-72.43438
+Falco sparverius,eats,Akodon olivaceus,-37.95453,-72.43438
+Caracara cheriway,eats,Coleoptera,-37.95453,-72.43438
+Caracara cheriway,eats,Lepidoptera,-37.95453,-72.43438
+Caracara cheriway,eats,Elateridae,-37.95453,-72.43438
+Caracara cheriway,eats,Lumbricidae,-37.95453,-72.43438
+Parabuteo unicinctus,eats,Liolaemus,-37.95453,-72.43438
+Parabuteo unicinctus,eats,Rattus,-37.95453,-72.43438
+Parabuteo unicinctus,eats,Oryctolagus cuniculus,-37.95453,-72.43438
+Elanus leucurus,eats,Liolaemus,-37.95453,-72.43438
+Elanus leucurus,eats,Zonotrichia capensis,-37.95453,-72.43438
+Bubo virginianus,eats,Akodon olivaceus,-37.95453,-72.43438
+Bubo virginianus,eats,Vanellus chilensis,-37.95453,-72.43438
+Concholepas concholepas,eats,Decapoda,-36,-72
+Concholepas concholepas,eats,Polychaeta,-36,-72
+Concholepas concholepas,eats,Bivalvia,-36,-72
+Concholepas concholepas,eats,Gastropoda,-36,-72
+Concholepas concholepas,eats,Patellogastropoda,-36,-72
+Concholepas concholepas,eats,Ascidiacea,-36,-72
+Concholepas concholepas,eats,Cirripedia,-36,-72
+Acanthocyclus,eats,Cirripedia,-36,-72
+Acanthocyclus,eats,Bivalvia,-36,-72
+Patellogastropoda,eats,Chlorophyta,-36,-72
+Decapoda,eats,marine detritus,-36,-72
+Ascidiacea,eats,plankton,-36,-72
+Sicyases sanguineus,eats,Polychaeta,-36,-72
+Sicyases sanguineus,eats,Decapoda,-36,-72
+Sicyases sanguineus,eats,Echinoidea,-36,-72
+Sicyases sanguineus,eats,Neoloricata,-36,-72
+Sicyases sanguineus,eats,Acanthocyclus,-36,-72
+Sicyases sanguineus,eats,Crassilabrum crassilabrum,-36,-72
+Sicyases sanguineus,eats,Concholepas concholepas,-36,-72
+Sicyases sanguineus,eats,Cirripedia,-36,-72
+Sicyases sanguineus,eats,Bivalvia,-36,-72
+Sicyases sanguineus,eats,Gastropoda,-36,-72
+Sicyases sanguineus,eats,Patellogastropoda,-36,-72
+Sicyases sanguineus,eats,Fissurellidae,-36,-72
+Crassilabrum crassilabrum,eats,Cirripedia,-36,-72
+Cirripedia,eats,plankton,-36,-72
+Heliaster helianthus,eats,Neoloricata,-36,-72
+Heliaster helianthus,eats,Echinoidea,-36,-72
+Heliaster helianthus,eats,Crassilabrum crassilabrum,-36,-72
+Heliaster helianthus,eats,Concholepas concholepas,-36,-72
+Heliaster helianthus,eats,Gastropoda,-36,-72
+Heliaster helianthus,eats,Patellogastropoda,-36,-72
+Heliaster helianthus,eats,Fissurellidae,-36,-72
+Heliaster helianthus,eats,Cirripedia,-36,-72
+Heliaster helianthus,eats,Bivalvia,-36,-72
+Neoloricata,eats,Chlorophyta,-36,-72
+Larus dominicanus,eats,Decapoda,-36,-72
+Larus dominicanus,eats,Neoloricata,-36,-72
+Larus dominicanus,eats,Acanthocyclus,-36,-72
+Larus dominicanus,eats,Concholepas concholepas,-36,-72
+Larus dominicanus,eats,Patellogastropoda,-36,-72
+Larus dominicanus,eats,Fissurellidae,-36,-72
+Larus dominicanus,eats,Bivalvia,-36,-72
+Larus dominicanus,eats,Gastropoda,-36,-72
+Haematopus,eats,Concholepas concholepas,-36,-72
+Haematopus,eats,Fissurellidae,-36,-72
+Haematopus,eats,Patellogastropoda,-36,-72
+Lontra felina,eats,Concholepas concholepas,-36,-72
+Lontra felina,eats,Sicyases sanguineus,-36,-72
+Lontra felina,eats,Decapoda,-36,-72
+Lontra felina,eats,Fissurellidae,-36,-72
+Lontra felina,eats,Patellogastropoda,-36,-72
+Gastropoda,eats,Chlorophyta,-36,-72
+Polychaeta,eats,marine detritus,-36,-72
+Fissurellidae,eats,Chlorophyta,-36,-72
+Echinoidea,eats,Chlorophyta,-36,-72
+Bivalvia,eats,plankton,-36,-72
+Thalassarche melanophris,eats,Ulmaridae,-40.51666667,-73.71666667
+Pachyptila belcheri,eats,Hyperiidae,-39.833316665,-75.76666667
+Brachioteuthis picta,eats,Teuthida,-51,-70
+Brachioteuthis picta,eats,Actinopterygii,-51,-70
+Brachioteuthis picta,eats,Pseudosagitta gazellae,-51,-70
+Brachioteuthis picta,eats,Themisto gaudichaudii,-51,-70
+Brachioteuthis picta,eats,Thysanoessa macrura,-51,-70
+Brachioteuthis picta,eats,Euphausia superba,-51,-70
+Galiteuthis glacialis,eats,Teuthida,-51,-70
+Galiteuthis glacialis,eats,Actinopterygii,-51,-70
+Galiteuthis glacialis,eats,Pseudosagitta gazellae,-51,-70
+Galiteuthis glacialis,eats,Themisto gaudichaudii,-51,-70
+Galiteuthis glacialis,eats,Thysanoessa macrura,-51,-70
+Galiteuthis glacialis,eats,Euphausia superba,-51,-70
+Alluroteuthis antarcticus,eats,Teuthida,-51,-70
+Alluroteuthis antarcticus,eats,Actinopterygii,-51,-70
+Alluroteuthis antarcticus,eats,Pseudosagitta gazellae,-51,-70
+Alluroteuthis antarcticus,eats,Themisto gaudichaudii,-51,-70
+Alluroteuthis antarcticus,eats,Thysanoessa macrura,-51,-70
+Alluroteuthis antarcticus,eats,Euphausia superba,-51,-70
+Filippovia knipovitchi,eats,Teuthida,-51,-70
+Filippovia knipovitchi,eats,Actinopterygii,-51,-70
+Filippovia knipovitchi,eats,Pseudosagitta gazellae,-51,-70
+Filippovia knipovitchi,eats,Themisto gaudichaudii,-51,-70
+Filippovia knipovitchi,eats,Thysanoessa macrura,-51,-70
+Filippovia knipovitchi,eats,Euphausia superba,-51,-70
+Kondakovia longimana,eats,Teuthida,-51,-70
+Kondakovia longimana,eats,Actinopterygii,-51,-70
+Kondakovia longimana,eats,Pseudosagitta gazellae,-51,-70
+Kondakovia longimana,eats,Themisto gaudichaudii,-51,-70
+Kondakovia longimana,eats,Thysanoessa macrura,-51,-70
+Kondakovia longimana,eats,Euphausia superba,-51,-70
+Nymphon arcuatum,eats,Cnidaria,-54,-71
+Cephalorhynchus commersonii,eats,Octopodidae,-54.5,-68.5
+Cephalorhynchus commersonii,eats,Doryteuthis gahi,-54.5,-68.5
+Hyperoodon planifrons,eats,Galiteuthis,-54.5,-68.5
+Hyperoodon planifrons,eats,Teuthowenia pellucida,-54.5,-68.5
+Hyperoodon planifrons,eats,Taonius pavo,-54.5,-68.5
+Hyperoodon planifrons,eats,Mesonychoteuthis hamiltoni,-54.5,-68.5
+Hyperoodon planifrons,eats,Chiroteuthis veranii,-54.5,-68.5
+Hyperoodon planifrons,eats,Batoteuthis skolops,-54.5,-68.5
+Hyperoodon planifrons,eats,Mastigoteuthis,-54.5,-68.5
+Hyperoodon planifrons,eats,Histioteuthis eltaninae,-54.5,-68.5
+Hyperoodon planifrons,eats,Bathyteuthis abyssicola,-54.5,-68.5
+Hyperoodon planifrons,eats,Alluroteuthis antarcticus,-54.5,-68.5
+Hyperoodon planifrons,eats,Taningia danae,-54.5,-68.5
+Hyperoodon planifrons,eats,Gonatus antarcticus,-54.5,-68.5
+Hyperoodon planifrons,eats,Discoteuthis,-54.5,-68.5
+Hyperoodon planifrons,eats,Brachioteuthis,-54.5,-68.5
+Hyperoodon planifrons,eats,Brachioteuthis riisei,-54.5,-68.5
+Hyperoodon planifrons,eats,Enoploteuthis,-54.5,-68.5
+Hyperoodon planifrons,eats,Kondakovia longimana,-54.5,-68.5
+Hyperoodon planifrons,eats,Filippovia knipovitchi,-54.5,-68.5
+Hyperoodon planifrons,eats,Onykia ingens,-54.5,-68.5
+Hyperoodon planifrons,eats,Martialia hyadesi,-54.5,-68.5
+Hyperoodon planifrons,eats,Cephalopoda,-54.5,-68.5
+Globicephala melas,eats,Octopodidae,-54.5,-68.5
+Globicephala melas,eats,Doryteuthis gahi,-54.5,-68.5
+Globicephala melas,eats,Galiteuthis,-54.5,-68.5
+Globicephala melas,eats,Mesonychoteuthis hamiltoni,-54.5,-68.5
+Globicephala melas,eats,Chiroteuthis veranii,-54.5,-68.5
+Globicephala melas,eats,Histioteuthis eltaninae,-54.5,-68.5
+Globicephala melas,eats,Alluroteuthis antarcticus,-54.5,-68.5
+Globicephala melas,eats,Gonatus antarcticus,-54.5,-68.5
+Globicephala melas,eats,Brachioteuthis riisei,-54.5,-68.5
+Globicephala melas,eats,Onykia ingens,-54.5,-68.5
+Globicephala melas,eats,Teuthowenia,-54.5,-68.5
+Misodendrum punctulatum,parasiteOf,Nothofagus antarctica,-41,-71.5
+Tristerix corymbosus,parasiteOf,Cissus,-40.66667,-73.08333
+Misodendrum punctulatum,parasiteOf,Nothofagus,-54.66667,-68.5
+Misodendrum brachystachyum,parasiteOf,Sorothamus,-41.5,-71.5
+Misodendrum angulatum,parasiteOf,Nothofagus,-41.5,-71.5
+Thysanoptera,pollinates,Menonvillea scapigera longipes,-34.166667,-69.7
+Thysanoptera,pollinates,Senecio,-34.166667,-69.7
+Anthidium,pollinates,Loasa incurva,-34.166667,-69.7
+Anthidium,pollinates,Adesmia hemisphaerica,-34.166667,-69.7
+Anthidium,pollinates,Olsynium junceum,-34.166667,-69.7
+Liphanthus,pollinates,Leuceria,-34.166667,-69.7
+Liphanthus,pollinates,Jaborosa laciniata,-34.166667,-69.7
+Liphanthus,pollinates,Olsynium junceum,-34.166667,-69.7
+Liphanthus,pollinates,Azorella monantha,-34.166667,-69.7
+Astylus,pollinates,Hypochaeris,-34.166667,-69.7
+Astylus,pollinates,Oxalis erythrorhiza,-34.166667,-69.7
+Chilimelissa,pollinates,Epilobium,-34.166667,-69.7
+Chilimelissa,pollinates,Perezia pilifera,-34.166667,-69.7
+Chilimelissa,pollinates,Oxalis erythrorhiza,-34.166667,-69.7
+Chilimelissa,pollinates,Montiopsis gilliesii,-34.166667,-69.7
+Hypodynerus,pollinates,Calandrinia caespitosa,-34.166667,-69.7
+Hypodynerus,pollinates,Discaria,-34.166667,-69.7
+Hypodynerus,pollinates,Eucryphia cordifolia,-42,-73.583333
+Megachile,pollinates,Astragalus cruckshanksii,-34.166667,-69.7
+Megachile,pollinates,Tarasa humilis,-34.166667,-69.7
+Megachile,pollinates,Astragalus nivicola,-34.166667,-69.7
+Megachile,pollinates,Adesmia hemisphaerica,-34.166667,-69.7
+Megachile,pollinates,Olsynium junceum,-34.166667,-69.7
+Megachile,pollinates,Senecio,-34.166667,-69.7
+Megachile,pollinates,Phacelia heterophylla,-34.166667,-69.7
+Megachile,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Spinoliella,pollinates,Tarasa humilis,-34.166667,-69.7
+Spinoliella,pollinates,Senecio,-34.166667,-69.7
+Ichneumonidae,pollinates,Senecio,-34.166667,-69.7
+Ichneumonidae,pollinates,Azorella monantha,-34.166667,-69.7
+Geron,pollinates,Perezia pilifera,-34.166667,-69.7
+Geron,pollinates,Montiopsis gilliesii,-34.166667,-69.7
+Geron,pollinates,Astragalus nivicola,-34.166667,-69.7
+Geron,pollinates,Discaria,-34.166667,-69.7
+Calliphoridae,pollinates,Cerastium arvense,-34.166667,-69.7
+Tropidia,pollinates,Cerastium arvense,-34.166667,-69.7
+Tropidia,pollinates,Discaria,-34.166667,-69.7
+Tropidia,pollinates,Eucryphia cordifolia,-42,-73.583333
+Mosillus,pollinates,Jaborosa laciniata,-34.166667,-69.7
+Mosillus,pollinates,Azorella monantha,-34.166667,-69.7
+Phulia,pollinates,Adesmia hemisphaerica,-34.166667,-69.7
+Phulia,pollinates,Discaria,-34.166667,-69.7
+Alloscirtetica,pollinates,Olsynium junceum,-34.166667,-69.7
+Pyrgus fides ,pollinates,Senecio,-34.166667,-69.7
+Xeromelissa farellones,pollinates,Phacelia heterophylla,-34.166667,-69.7
+Chironomidae,pollinates,Phacelia heterophylla,-34.166667,-69.7
+Chironomidae,pollinates,Discaria,-34.166667,-69.7
+Thyridanthrax,pollinates,Azorella monantha,-34.166667,-69.7
+Thyridanthrax,pollinates,Discaria,-34.166667,-69.7
+Podagritus,pollinates,Azorella monantha,-34.166667,-69.7
+Coccinela anchoralis,pollinates,Azorella monantha,-34.166667,-69.7
+Microcerella rusca,pollinates,Azorella monantha,-34.166667,-69.7
+Microcerella rusca,pollinates,Discaria,-34.166667,-69.7
+Sarconesia versicolor,pollinates,Azorella monantha,-34.166667,-69.7
+Sarconesia versicolor,pollinates,Discaria,-34.166667,-69.7
+Tamseuxoa ingoufii,pollinates,Discaria,-34.166667,-69.7
+Pseudoleucania,pollinates,Discaria,-34.166667,-69.7
+Peridroma saucia,pollinates,Discaria,-34.166667,-69.7
+Issoria lathonioides,pollinates,Discaria,-34.166667,-69.7
+Dolichogyna,pollinates,Discaria,-34.166667,-69.7
+Dolichogyna,pollinates,Myrceugenia,-42,-73.583333
+Dolichogyna,pollinates,Tepualia stipularis,-42,-73.583333
+Dasybasis chilensis,pollinates,Discaria,-34.166667,-69.7
+Agrotis ipsilon,pollinates,Discaria,-34.166667,-69.7
+Mesograpta,pollinates,Ugni candollei,-42,-73.583333
+Mesograpta,pollinates,Myrteola nummularia,-42,-73.583333
+Mesograpta,pollinates,Anagallis,-42,-73.583333
+Mesograpta,pollinates,Amomyrtus,-42,-73.583333
+Mesograpta,pollinates,Amomyrtus,-42,-73.583333
+Mesograpta,pollinates,Eucryphia cordifolia,-42,-73.583333
+Mesograpta,pollinates,Tepualia stipularis,-42,-73.583333
+Bombus,pollinates,Ugni candollei,-42,-73.583333
+Bombus,pollinates,Mitraria coccinea,-42,-73.583333
+Bombus,pollinates,Luzuriaga radicans,-42,-73.583333
+Bombus,pollinates,Luzuriaga polyphylla,-42,-73.583333
+Bombus,pollinates,Asteranthera ovata,-42,-73.583333
+Bombus,pollinates,Ugni molinae,-42,-73.583333
+Bombus,pollinates,Gaultheria,-42,-73.583333
+Bombus,pollinates,Berberis,-42,-73.583333
+Bombus,pollinates,Ovidia andina,-42,-73.583333
+Bombus,pollinates,Hydrangea serratifolia,-42,-73.583333
+Bombus,pollinates,Berberis,-42,-73.583333
+Bombus,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Bombus,pollinates,Myrceugenia,-42,-73.583333
+Bombus,pollinates,Caldcluvia paniculata,-42,-73.583333
+Bombus,pollinates,Amomyrtus,-42,-73.583333
+Bombus,pollinates,Myrceugenia,-42,-73.583333
+Bombus,pollinates,Luma apiculata,-42,-73.583333
+Bombus,pollinates,Myrceugenia,-42,-73.583333
+Bombus,pollinates,Amomyrtus,-42,-73.583333
+Bombus,pollinates,Eucryphia cordifolia,-42,-73.583333
+Bombus,pollinates,Tepualia stipularis,-42,-73.583333
+Bombus,pollinates,Tristerix corymbosus,-41.077069,-71.525206
+Bombus,pollinates,Calceolaria crenatiflora,-41.077069,-71.525206
+Bombus,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Bombus,pollinates,Berberis,-41.077069,-71.525206
+Bombus,pollinates,Digitalis purpurea,-41.077069,-71.525206
+Bombus,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Bombus,pollinates,Vicia nigricans,-41.077069,-71.525206
+Bombus,pollinates,Berberis,-41.077069,-71.525206
+Bombus,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Bombus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Melanostoma,pollinates,Myrteola nummularia,-42,-73.583333
+Melanostoma,pollinates,Ugni molinae,-42,-73.583333
+Melanostoma,pollinates,Berberis,-42,-73.583333
+Melanostoma,pollinates,Ovidia andina,-42,-73.583333
+Melanostoma,pollinates,Berberis,-42,-73.583333
+Melanostoma,pollinates,Myrceugenia,-42,-73.583333
+Melanostoma,pollinates,Caldcluvia paniculata,-42,-73.583333
+Melanostoma,pollinates,Gevuina avellana,-42,-73.583333
+Melanostoma,pollinates,Amomyrtus,-42,-73.583333
+Melanostoma,pollinates,Myrceugenia,-42,-73.583333
+Melanostoma,pollinates,Luma apiculata,-42,-73.583333
+Melanostoma,pollinates,Myrceugenia,-42,-73.583333
+Melanostoma,pollinates,Amomyrtus,-42,-73.583333
+Melanostoma,pollinates,Eucryphia cordifolia,-42,-73.583333
+Melanostoma,pollinates,Tepualia stipularis,-42,-73.583333
+Sephanoides sephanoides,pollinates,Mitraria coccinea,-42,-73.583333
+Sephanoides sephanoides,pollinates,Asteranthera ovata,-42,-73.583333
+Sephanoides sephanoides,pollinates,Berberis,-42,-73.583333
+Sephanoides sephanoides,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Sephanoides sephanoides,pollinates,Embothrium coccineum,-42,-73.583333
+Sephanoides sephanoides,pollinates,Eucryphia cordifolia,-42,-73.583333
+Diphaglossa gayi,pollinates,Luzuriaga radicans,-42,-73.583333
+Diphaglossa gayi,pollinates,Luzuriaga polyphylla,-42,-73.583333
+Diphaglossa gayi,pollinates,Embothrium coccineum,-42,-73.583333
+Diphaglossa gayi,pollinates,Amomyrtus,-42,-73.583333
+Scaptia,pollinates,Gaultheria,-42,-73.583333
+Apis mellifera,pollinates,Ugni molinae,-42,-73.583333
+Apis mellifera,pollinates,Gaultheria,-42,-73.583333
+Apis mellifera,pollinates,Berberis,-42,-73.583333
+Apis mellifera,pollinates,Ovidia andina,-42,-73.583333
+Apis mellifera,pollinates,Hydrangea serratifolia,-42,-73.583333
+Apis mellifera,pollinates,Berberis,-42,-73.583333
+Apis mellifera,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Apis mellifera,pollinates,Embothrium coccineum,-42,-73.583333
+Apis mellifera,pollinates,Myrceugenia,-42,-73.583333
+Apis mellifera,pollinates,Caldcluvia paniculata,-42,-73.583333
+Apis mellifera,pollinates,Gevuina avellana,-42,-73.583333
+Apis mellifera,pollinates,Amomyrtus,-42,-73.583333
+Apis mellifera,pollinates,Myrceugenia,-42,-73.583333
+Apis mellifera,pollinates,Luma apiculata,-42,-73.583333
+Apis mellifera,pollinates,Myrceugenia,-42,-73.583333
+Apis mellifera,pollinates,Amomyrtus,-42,-73.583333
+Apis mellifera,pollinates,Eucryphia cordifolia,-42,-73.583333
+Apis mellifera,pollinates,Tepualia stipularis,-42,-73.583333
+Cadeguala albopilosa,pollinates,Gaultheria,-42,-73.583333
+Cadeguala albopilosa,pollinates,Berberis,-42,-73.583333
+Cadeguala albopilosa,pollinates,Ovidia andina,-42,-73.583333
+Cadeguala albopilosa,pollinates,Berberis,-42,-73.583333
+Cadeguala albopilosa,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Cadeguala albopilosa,pollinates,Gevuina avellana,-42,-73.583333
+Cadeguala albopilosa,pollinates,Amomyrtus,-42,-73.583333
+Cadeguala albopilosa,pollinates,Amomyrtus,-42,-73.583333
+Cadeguala albopilosa,pollinates,Tepualia stipularis,-42,-73.583333
+Corynura,pollinates,Gaultheria,-42,-73.583333
+Corynura,pollinates,Hydrangea serratifolia,-42,-73.583333
+Corynura,pollinates,Berberis,-42,-73.583333
+Corynura,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Corynura,pollinates,Myrceugenia,-42,-73.583333
+Corynura,pollinates,Gevuina avellana,-42,-73.583333
+Corynura,pollinates,Amomyrtus,-42,-73.583333
+Corynura,pollinates,Myrceugenia,-42,-73.583333
+Corynura,pollinates,Luma apiculata,-42,-73.583333
+Corynura,pollinates,Myrceugenia,-42,-73.583333
+Corynura,pollinates,Amomyrtus,-42,-73.583333
+Corynura,pollinates,Digitalis purpurea,-41.077069,-71.525206
+Corynura,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Corynura,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Corynura,pollinates,Aristotelia chilensis,-41.077069,-71.525206
+Caenohalictus,pollinates,Ovidia andina,-42,-73.583333
+Caenohalictus,pollinates,Berberis,-42,-73.583333
+Caenohalictus,pollinates,Gevuina avellana,-42,-73.583333
+Caenohalictus,pollinates,Myrceugenia,-42,-73.583333
+Caenohalictus,pollinates,Myrceugenia,-42,-73.583333
+Caenohalictus,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Caenohalictus,pollinates,Berberis,-41.077069,-71.525206
+Dysmorphocellus sp1 M_PL_034,pollinates,Anagallis,-42,-73.583333
+Dysmorphocellus sp1 M_PL_034,pollinates,Myrceugenia,-42,-73.583333
+Eristalis,pollinates,Anagallis,-42,-73.583333
+Eristalis,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Eristalis,pollinates,Amomyrtus,-42,-73.583333
+Eristalis,pollinates,Myrceugenia,-42,-73.583333
+Eristalis,pollinates,Luma apiculata,-42,-73.583333
+Eristalis,pollinates,Myrceugenia,-42,-73.583333
+Eristalis,pollinates,Eucryphia cordifolia,-42,-73.583333
+Eristalis,pollinates,Tepualia stipularis,-42,-73.583333
+Stilbosona cyanea,pollinates,Hydrangea serratifolia,-42,-73.583333
+Stilbosona cyanea,pollinates,Luma apiculata,-42,-73.583333
+Stilbosona cyanea,pollinates,Myrceugenia,-42,-73.583333
+Stilbosona cyanea,pollinates,Amomyrtus,-42,-73.583333
+Stilbosona cyanea,pollinates,Tepualia stipularis,-42,-73.583333
+Vanessa,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Callideriphus,pollinates,Rhaphithamnus spinosus,-42,-73.583333
+Callideriphus,pollinates,Amomyrtus,-42,-73.583333
+Phrygilus patagonicus,pollinates,Embothrium coccineum,-42,-73.583333
+Elaenia,pollinates,Embothrium coccineum,-42,-73.583333
+Carduelis,pollinates,Embothrium coccineum,-42,-73.583333
+Thrypticus,pollinates,Myrceugenia,-42,-73.583333
+Thrypticus,pollinates,Myrceugenia,-42,-73.583333
+Thrypticus,pollinates,Luma apiculata,-42,-73.583333
+Thrypticus,pollinates,Tepualia stipularis,-42,-73.583333
+Allograpta,pollinates,Myrceugenia,-42,-73.583333
+Allograpta,pollinates,Gevuina avellana,-42,-73.583333
+Allograpta,pollinates,Luma apiculata,-42,-73.583333
+Allograpta,pollinates,Myrceugenia,-42,-73.583333
+Allograpta,pollinates,Amomyrtus,-42,-73.583333
+Allograpta,pollinates,Tepualia stipularis,-42,-73.583333
+Allograpta,pollinates,Calceolaria crenatiflora,-41.077069,-71.525206
+Allograpta,pollinates,Berberis,-41.077069,-71.525206
+Allograpta,pollinates,Ribes magellanicum,-41.077069,-71.525206
+Allograpta,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Allograpta,pollinates,Berberis,-41.077069,-71.525206
+Allograpta,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Allograpta,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Peleteria,pollinates,Caldcluvia paniculata,-42,-73.583333
+Morphodexia,pollinates,Caldcluvia paniculata,-42,-73.583333
+Mordella,pollinates,Caldcluvia paniculata,-42,-73.583333
+Mordella,pollinates,Luma apiculata,-42,-73.583333
+Mordella,pollinates,Myrceugenia,-42,-73.583333
+Mordella,pollinates,Amomyrtus,-42,-73.583333
+Mordella,pollinates,Eucryphia cordifolia,-42,-73.583333
+Mordella,pollinates,Tepualia stipularis,-42,-73.583333
+Fannia,pollinates,Gevuina avellana,-42,-73.583333
+Fannia,pollinates,Myrceugenia,-42,-73.583333
+Fannia,pollinates,Amomyrtus,-42,-73.583333
+Fannia,pollinates,Eucryphia cordifolia,-42,-73.583333
+Fannia,pollinates,Tepualia stipularis,-42,-73.583333
+Eristalis,pollinates,Gevuina avellana,-42,-73.583333
+Cadeguala,pollinates,Gevuina avellana,-42,-73.583333
+Cadeguala,pollinates,Amomyrtus,-42,-73.583333
+Cadeguala,pollinates,Myrceugenia,-42,-73.583333
+Schizochelus,pollinates,Amomyrtus,-42,-73.583333
+Hylodanacea elegans,pollinates,Amomyrtus,-42,-73.583333
+Eurymetopun,pollinates,Amomyrtus,-42,-73.583333
+Eurymetopun,pollinates,Amomyrtus,-42,-73.583333
+Clamirius apicarius,pollinates,Amomyrtus,-42,-73.583333
+Platynocera,pollinates,Amomyrtus,-42,-73.583333
+Platynocera,pollinates,Myrceugenia,-42,-73.583333
+Platynocera,pollinates,Amomyrtus,-42,-73.583333
+Dasydema,pollinates,Amomyrtus,-42,-73.583333
+Dasydema,pollinates,Luma apiculata,-42,-73.583333
+Chlamysus sp1 M_PL_034,pollinates,Myrceugenia,-42,-73.583333
+Syrphus,pollinates,Myrceugenia,-42,-73.583333
+Syrphus,pollinates,Tepualia stipularis,-42,-73.583333
+Syrphus,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Syrphus,pollinates,Berberis,-41.077069,-71.525206
+Syrphus,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Syrphus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Adalia,pollinates,Myrceugenia,-42,-73.583333
+Adalia,pollinates,Amomyrtus,-42,-73.583333
+Hyponotum kraussei,pollinates,Myrceugenia,-42,-73.583333
+Hyponotum kraussei,pollinates,Luma apiculata,-42,-73.583333
+Hyponotum kraussei,pollinates,Myrceugenia,-42,-73.583333
+Hyponotum kraussei,pollinates,Amomyrtus,-42,-73.583333
+Hyponotum kraussei,pollinates,Eucryphia cordifolia,-42,-73.583333
+Chauliognathus,pollinates,Myrceugenia,-42,-73.583333
+Chauliognathus,pollinates,Luma apiculata,-42,-73.583333
+Chauliognathus,pollinates,Myrceugenia,-42,-73.583333
+Chauliognathus,pollinates,Eucryphia cordifolia,-42,-73.583333
+Chauliognathus,pollinates,Tepualia stipularis,-42,-73.583333
+Megalybus,pollinates,Luma apiculata,-42,-73.583333
+Megalybus,pollinates,Eucryphia cordifolia,-42,-73.583333
+Fazia,pollinates,Luma apiculata,-42,-73.583333
+Fazia,pollinates,Myrceugenia,-42,-73.583333
+Fazia,pollinates,Tepualia stipularis,-42,-73.583333
+Czernyola,pollinates,Myrceugenia,-42,-73.583333
+Czernyola,pollinates,Amomyrtus,-42,-73.583333
+Cheilosia,pollinates,Myrceugenia,-42,-73.583333
+Cheilosia,pollinates,Amomyrtus,-42,-73.583333
+Protosialis,pollinates,Amomyrtus,-42,-73.583333
+Hylodanacea binotus,pollinates,Amomyrtus,-42,-73.583333
+Eurymetopun,pollinates,Amomyrtus,-42,-73.583333
+Chenoderus,pollinates,Amomyrtus,-42,-73.583333
+Rhopalomerus tenuirostris,pollinates,Amomyrtus,-42,-73.583333
+Rhopalomerus tenuirostris,pollinates,Eucryphia cordifolia,-42,-73.583333
+Rhopalomerus tenuirostris,pollinates,Tepualia stipularis,-42,-73.583333
+Trichophthalma,pollinates,Eucryphia cordifolia,-42,-73.583333
+Macrometopia,pollinates,Eucryphia cordifolia,-42,-73.583333
+Lypha,pollinates,Eucryphia cordifolia,-42,-73.583333
+Eroessa chilensis,pollinates,Eucryphia cordifolia,-42,-73.583333
+Mecopselaphus maculicollis,pollinates,Eucryphia cordifolia,-42,-73.583333
+Mecopselaphus maculicollis,pollinates,Tepualia stipularis,-42,-73.583333
+Vespula germanica,pollinates,Tepualia stipularis,-42,-73.583333
+Vespula germanica,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Vespula germanica,pollinates,Digitalis purpurea,-41.077069,-71.525206
+Vespula germanica,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Vespula germanica,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Melanophthalma,pollinates,Tepualia stipularis,-42,-73.583333
+Sephanoides,pollinates,Tristerix corymbosus,-41.077069,-71.525206
+Sephanoides,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Sephanoides,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Manuelia,pollinates,Tristerix corymbosus,-41.077069,-71.525206
+Manuelia,pollinates,Berberis,-41.077069,-71.525206
+Manuelia,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Manuelia,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Chalepogenus caeruleus,pollinates,Calceolaria crenatiflora,-41.077069,-71.525206
+Evylaeus,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Evylaeus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Ocyptamus melanorrhinus,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Ocyptamus melanorrhinus,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Ocyptamus melanorrhinus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Sapromyza,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Sapromyza,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Sapromyza,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Heterosarus,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Heterosarus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Phthiria,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Phthiria,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Phthiria,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Anthaxia,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Anthaxia,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Manuelia,pollinates,Mutisia decurrens,-41.077069,-71.525206
+Manuelia,pollinates,Berberis,-41.077069,-71.525206
+Manuelia,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Colletes seminitidus,pollinates,Berberis,-41.077069,-71.525206
+Colletes seminitidus,pollinates,Ribes magellanicum,-41.077069,-71.525206
+Colletes seminitidus,pollinates,Diplolepis diemii,-41.077069,-71.525206
+Colletes seminitidus,pollinates,Berberis,-41.077069,-71.525206
+Trichophthalma,pollinates,Berberis,-41.077069,-71.525206
+Trichophthalma,pollinates,Ribes magellanicum,-41.077069,-71.525206
+Trichophthalma,pollinates,Berberis,-41.077069,-71.525206
+Trichophthalma,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Bombus,pollinates,Digitalis purpurea,-41.077069,-71.525206
+Bombus,pollinates,Vicia nigricans,-41.077069,-71.525206
+Bombus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Ruizantheda,pollinates,Digitalis purpurea,-41.077069,-71.525206
+Ruizantheda,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Ruizantheda,pollinates,Berberis,-41.077069,-71.525206
+Ruizantheda,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Ruizantheda,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Ruizantheda,pollinates,Aristotelia chilensis,-41.077069,-71.525206
+Allograpta,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Platycheirus,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Ruizantheda,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Ruizantheda,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Platycheirus,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Platycheirus,pollinates,Berberis,-41.077069,-71.525206
+Platycheirus,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Platycheirus,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Platycheirus,pollinates,Aristotelia chilensis,-41.077069,-71.525206
+Trichophthalma,pollinates,Rosa eglanteria,-41.077069,-71.525206
+Trichophthalma,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Scaeva,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Camponotus,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Policana albopilosa,pollinates,Schinus patagonicus,-41.077069,-71.525206
+Policana albopilosa,pollinates,Aristotelia chilensis,-41.077069,-71.525206
+Chilicola,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Ruizantheda,pollinates,Alstroemeria aurea,-41.077069,-71.525206
+Svastrides melanura,pollinates,Alstroemeria aurea,-41.077069,-71.525206
