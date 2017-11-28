@@ -1,1 +1,6 @@
-# globi-IVMOOC
+GloBI-IVMOOC
+Our project intends to explore the interactions of creatures in tropical and temperate rainforests by using visualization methods and to examine whether the interactions differ between the biospheres. The Global Biotic Interactions dataset (GloBI) will be used. GloBI (http://globalbioticinteractions.org) is one of the largest openly accessible dataset that describes when, where, and how organisms interact. 
+
+The interactions of creatures in four continents in tropical rainforest (South Asia, Australia, South America, and Africa) and three continents in temperate rainforest (North America, Asia, and South America) was assessed using R software. Other applications, such as Cytoscape, Adobe PhotoShop and Tableau, are used to finalize visualization. Visualization methods such as bubble charts ，pie chart, Geomap, Prefuse Force Directed OpenCL networks and bar chart to show taxon that appears in both tropical rainforest and temperate rainforest interact with other taxon in both areas.
+
+In addition, a website was created that dynamically presents the interactions with detailed information on taxon of species. The tropical and temperate rainforests are characterized by a great variety of species. Due to the sophistication of interactions between species in the two biospheres, the present project using visualization contributes to clearer insights of the ecosystems compared to traditional methods using statistics.
